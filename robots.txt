@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://canadabiolabs.com/sitemap.xml
+
+# Bloquear arquivos desnecessários
+Disallow: /js/
+Disallow: /*.js$
+Disallow: /cdn-cgi/
+Disallow: /challenges.cloudflare.com/
