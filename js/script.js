@@ -405,11 +405,11 @@ $('.product-page__img').each(function () {
 $('.product-page__modal').click(function () {
   $(this).removeClass('active');
 });
-// ─── GLOBAL RIGHT-CLICK + COPY/DRAG BLOCKER ───
-['contextmenu','copy','cut','paste','selectstart','dragstart']
-  .forEach(evt =>
-    document.addEventListener(evt, e => {
-      e.preventDefault();
-      e.stopPropagation();
-    }, { capture: true })
-  );
+// ─── BLOQUEIO DE CLIQUE DIREITO REMOVIDO PARA MELHOR UX ───
+// ['contextmenu','copy','cut','paste','selectstart','dragstart']
+//   .forEach(evt =>
+//     document.addEventListener(evt, e => {
+//       e.preventDefault();
+//       e.stopPropagation();
+//     }, { capture: true })
+//   );

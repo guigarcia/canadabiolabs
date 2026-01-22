@@ -6,7 +6,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Prohibitin-targeting peptide 1. It is an experimental proapoptotic drugthat has been shown to cause rapid weight loss in mice and rhesus monkeys',
+      'Peptídeo direcionado à proibitina 1. É um medicamento proapoptótico experimental que demonstrou causar perda rápida de peso em camundongos e macacos rhesus',
     synonyms: 'Adipotide, FTPP, Fat Targetted Proapoptotic Peptide.',
   },
   {
@@ -16,7 +16,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Prohibitin-targeting peptide 1. It is an experimental proapoptotic drugthat has been shown to cause rapid weight loss in mice and rhesus monkeys',
+      'Peptídeo direcionado à proibitina 1. É um medicamento proapoptótico experimental que demonstrou causar perda rápida de peso em camundongos e macacos rhesus',
     synonyms: 'Adipotide, FTPP, Fat Targetted Proapoptotic Peptide.',
   },
   {
@@ -26,7 +26,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Adrafinil is a eugeroic drug used in to promote alertness, attention, wakefulness, positive mood, and other parameters, particularly in the elderly.',
+      'Adrafinil é um medicamento eugérico usado para promover alerta, atenção, vigília, humor positivo e outros parâmetros, particularmente em idosos.',
     synonyms: 'ADRAFINIL\n63547-13-7\nOlmifon\nCRL 40028\nAdrafinil [INN]',
   },
   {
@@ -36,7 +36,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Adrafinil is a eugeroic drug used in to promote alertness, attention, wakefulness, positive mood, and other parameters, particularly in the elderly.',
+      'Adrafinil é um medicamento eugérico usado para promover alerta, atenção, vigília, humor positivo e outros parâmetros, particularmente em idosos.',
     synonyms: 'ADRAFINIL\n63547-13-7\nOlmifon\nCRL 40028\nAdrafinil [INN]',
   },
   {
@@ -46,7 +46,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      '5-Aminoimidazole-4-carboxamide ribonucleotide (AICAR). AICAR has been used clinically to treat and protect against cardiac ischemic injury.',
+      '5-Aminoimidazol-4-carboxamida ribonucleotídeo (AICAR). AICAR tem sido usado clinicamente para tratar e proteger contra lesão isquêmica cardíaca.',
     synonyms:
       'AICA ribonucleotide\nZ-nucleotide3031-94-5\n5′-Phosphoribosyl-5-amino-4-imidazolecarboxamide\n5-amino-4-imidazolecarboxamide ribotide',
   },
@@ -57,7 +57,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      '5-Aminoimidazole-4-carboxamide ribonucleotide (AICAR). AICAR has been used clinically to treat and protect against cardiac ischemic injury.',
+      '5-Aminoimidazol-4-carboxamida ribonucleotídeo (AICAR). AICAR tem sido usado clinicamente para tratar e proteger contra lesão isquêmica cardíaca.',
     synonyms:
       'AICA ribonucleotide\nZ-nucleotide\n3031-94-5\n5′-Phosphoribosyl-5-amino-4-imidazolecarboxamide\n5-amino-4-imidazolecarboxamide ribotide',
   },
@@ -68,7 +68,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Alarelin is a synthetic polypeptide which acts as LH-RH (Luteinizing-hormone releasing hormone) analogue agonist. Alarelin is known for its induction of ovulation and is used to treat endometriosis.',
+      'Alarelin é um polipeptídeo sintético que atua como agonista análogo de LH-RH (hormônio liberador de hormônio luteinizante). Alarelin é conhecido por sua indução de ovulação e é usado para tratar endometriose.',
     synonyms:
       'ALARELIN\n \nDalareline\n \n79561-22-1\n \n52435-06-0\n \nALARELIN ACETATE',
   },
@@ -79,7 +79,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Alarelin is a synthetic polypeptide which acts as LH-RH (Luteinizing-hormone releasing hormone) analogue agonist. Alarelin is known for its induction of ovulation and is used to treat endometriosis.',
+      'Alarelin é um polipeptídeo sintético que atua como agonista análogo de LH-RH (hormônio liberador de hormônio luteinizante). Alarelin é conhecido por sua indução de ovulação e é usado para tratar endometriose.',
     synonyms:
       'ALARELIN\n \nDalareline\n \n79561-22-1\n \n52435-06-0\n \nALARELIN ACETATE',
   },
@@ -90,7 +90,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'AOD-9604 is a potential anti-obesity peptide based on human growth hormone. AOD9604 was originally developed after research on mice, but subsequent studies in human have shown no efficacy for the potential treatment of obesity.',
+      'AOD-9604 é um peptídeo potencial anti-obesidade baseado no hormônio de crescimento humano. AOD9604 foi originalmente desenvolvido após pesquisas em camundongos, mas estudos subsequentes em humanos não mostraram eficácia para o tratamento potencial da obesidade.',
     synonyms:
       'L-Tyrosyl-L-leucyl-L-arginyl-L-isoleucyl-L-valyl- N-[(4R,7S,13S,16S, 19S,2\n2S,25R)-22-(3-carbamimida midopropyl)-13-\n( 2-carboxyethyl)- 4-[(2-{\n[(1S)-1-carboxy-2-phenylethyl]amino}-2-oxoethyl)carbamoyl]-\n7, 19-bis(hydroxymethyl)-16-isopropyl-6,9,12,15,18,21,24-heptaoxo-1,2-dithia-5,8,11,14,17,20,23-heptaazacyclohexacosan-25-yl]-L-glutamamide\nL-Glutamamide, L-tyrosyl-L-\nleucyl-L-arginyl-L-isoleucyl-\nL-valyl-N-\n[(4R,7S,13S,16S,19S, 22S,25R)-22-[3-[(aminoiminomethyl)\namino]propyl]-13-(2-carboxyethyl)-4-[[[2-[[(1S)-1-carboxy-2-phenylethyl]amino ]-2-oxoethyl]amino]carbonyl]-7,19-bis(hydroxymethyl)- 16-(1-methylethyl)-6,9,12, 15,18,21,24-heptaoxo-1,2-dithia- 5,8,11,14,17,20,23- heptaazacyclohexacos -25-yl]-\naod 9604',
   },
@@ -101,7 +101,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'AOD-9604 is a potential anti-obesity peptide based on human growth hormone. AOD9604 was originally developed after research on mice, but subsequent studies in human have shown no efficacy for the potential treatment of obesity.',
+      'AOD-9604 é um peptídeo potencial anti-obesidade baseado no hormônio de crescimento humano. AOD9604 foi originalmente desenvolvido após pesquisas em camundongos, mas estudos subsequentes em humanos não mostraram eficácia para o tratamento potencial da obesidade.',
     synonyms:
       'L-Tyrosyl-L-leucyl-L-arginyl-L-isoleucyl-L-valyl- N-[(4R,7S,13S,16S, 19S,2\n2S,25R)-22-(3-carbamimida midopropyl)-13-\n( 2-carboxyethyl)- 4-[(2-{\n[(1S)-1-carboxy-2-phenylethyl]amino}-2-oxoethyl)carbamoyl]-\n7, 19-bis(hydroxymethyl)-16-isopropyl-6,9,12,15,18,21,24-heptaoxo-1,2-dithia-5,8,11,14,17,20,23-heptaazacyclohexacosan-25-yl]-L-glutamamide\nL-Glutamamide, L-tyrosyl-L-\nleucyl-L-arginyl-L-isoleucyl-\nL-valyl-N-\n[(4R,7S,13S,16S,19S, 22S,25R)-22-[3-[(aminoiminomethyl)\namino]propyl]-13-(2-carboxyethyl)-4-[[[2-[[(1S)-1-carboxy-2-phenylethyl]amino ]-2-oxoethyl]amino]carbonyl]-7,19-bis(hydroxymethyl)- 16-(1-methylethyl)-6,9,12, 15,18,21,24-heptaoxo-1,2-dithia- 5,8,11,14,17,20,23- heptaazacyclohexacos -25-yl]-\naod 9604',
   },
@@ -112,7 +112,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Argireline is a synthetic anti-wrinkle cosmetics ingredient. It is a peptide which is a fragment of SNAP-25, a substrate of botulinum toxin',
+      'Argireline é um ingrediente cosmético sintético anti-rugas. É um peptídeo que é um fragmento de SNAP-25, um substrato da toxina botulínica',
     synonyms:
       'Argireline\n616204-22-9\nARGIRELINE ACETATE\nAcetyl hexapeptide\nArgireline Acetate anti-aging cosmetic peptide',
   },
@@ -123,7 +123,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Argireline is a synthetic anti-wrinkle cosmetics ingredient. It is a peptide which is a fragment of SNAP-25, a substrate of botulinum toxin',
+      'Argireline é um ingrediente cosmético sintético anti-rugas. É um peptídeo que é um fragmento de SNAP-25, um substrato da toxina botulínica',
     synonyms:
       'Argireline\n616204-22-9\nARGIRELINE ACETATE\nAcetyl hexapeptide\nArgireline Acetate anti-aging cosmetic peptide',
   },
@@ -134,7 +134,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'BPC-157 (also known as PL 14736) is a pentadecapeptide. It has been tested in animal trials for cytoprotective and wound healing activities',
+      'BPC-157 (também conhecido como PL 14736) é um pentadecapeptídeo. Foi testado em ensaios animais para atividades citoprotetoras e de cicatrização de feridas',
     synonyms:
       'BPC 157;Bepecin;peptide BPC157;Pentadeca petide;peptides bpc157;GEPPPGKPADDA GLV;PENTADECAPEPTIDE ;pentadecapeptide BPC;Pe ptide Powder BPC 157;BPC 157 ( Booly protection compound 15)',
   },
@@ -145,7 +145,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Argireline is a synthetic anti-wrinkle cosmetics ingredient. It is a peptide which is a fragment of SNAP-25, a substrate of botulinum toxin',
+      'Argireline é um ingrediente cosmético sintético anti-rugas. É um peptídeo que é um fragmento de SNAP-25, um substrato da toxina botulínica',
     synonyms:
       'Argireline\n616204-22-9\nARGIRELINE ACETATE\nAcetyl hexapeptide\nArgireline Acetate anti-aging cosmetic peptide',
   },
@@ -156,7 +156,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'is a peptide analogue of growth hormone-releasing hormone (GHRH) which is used as a diagnostic agent to assess growth hormone (GH) secretion for the purpose of diagnosing growth hormone deficiency.',
+      'é um análogo peptídico do hormônio liberador do hormônio de crescimento (GHRH) que é usado como agente diagnóstico para avaliar a secreção do hormônio de crescimento (GH) com o propósito de diagnosticar deficiência de hormônio de crescimento.',
     synonyms:
       'SERMORELIN\nUNII-89243S03TE\n89243S03TE\n86168-78-7\n114466-38-5',
   },
@@ -167,7 +167,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'is a peptide analogue of growth hormone-releasing hormone (GHRH) which is used as a diagnostic agent to assess growth hormone (GH) secretion for the purpose of diagnosing growth hormone deficiency.',
+      'é um análogo peptídico do hormônio liberador do hormônio de crescimento (GHRH) que é usado como agente diagnóstico para avaliar a secreção do hormônio de crescimento (GH) com o propósito de diagnosticar deficiência de hormônio de crescimento.',
     synonyms:
       'SERMORELIN\nUNII-89243S03TE\n89243S03TE\n86168-78-7\n114466-38-5',
   },
@@ -178,7 +178,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'CJC-1295 with DAC is a synthetic secretagogue, which stimulates HGH release from the hypothalamus. Dosing GHRH once at night for anti-aging purposes and multiple injections (1-3x) for anabolism.',
+      'CJC-1295 com DAC é um secretagogo sintético que estimula a liberação de HGH do hipotálamo. Dosagem de GHRH uma vez à noite para fins anti-envelhecimento e múltiplas injeções (1-3x) para anabolismo.',
     synonyms:
       '863288-34-0\nL-tyrosyl-D-alanyl-L-alpha -aspartyl-L-alanyl-L-isoleucyl-L-phenylalanyl-L-threonyl-L-glutaminyl-L-seryl-L- tyrosyl-L-arginyl-L-lysyl-L-valyl-L-leucyl-L-alanyl-L-glutaminyl-L-leucyl-L -seryl-L-alanyl-L-arginyl-L-lysyl-L-leucyl-L-leucyl-L-glutaminyl-L-alpha- aspartyl-L-isoleucyl-L- leucyl-L-seryl-L-argin inamide',
   },
@@ -189,7 +189,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'CJC-1295 with DAC is a synthetic secretagogue, which stimulates HGH release from the hypothalamus. Dosing GHRH once at night for anti-aging purposes and multiple injections (1-3x) for anabolism.',
+      'CJC-1295 com DAC é um secretagogo sintético que estimula a liberação de HGH do hipotálamo. Dosagem de GHRH uma vez à noite para fins anti-envelhecimento e múltiplas injeções (1-3x) para anabolismo.',
     synonyms:
       '863288-34-0\nL-tyrosyl-D-alanyl-L-alpha -aspartyl-L-alanyl-L-isoleucyl-L-phenylalanyl-L-threonyl-L-glutaminyl-L-seryl-L- tyrosyl-L-arginyl-L-lysyl-L-valyl-L-leucyl-L-alanyl-L-glutaminyl-L-leucyl-L -seryl-L-alanyl-L-arginyl-L-lysyl-L-leucyl-L-leucyl-L-glutaminyl-L-alpha- aspartyl-L-isoleucyl-L- leucyl-L-seryl-L-argin inamide',
   },
@@ -200,7 +200,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Delta-sleep-inducing peptide, abbreviated DSIP, is a neuropeptide that when infused into the mesodiencephalic ventricle of recipient rabbits induces spindle and delta EEG activity and reduced motor activities.',
+      'Peptídeo indutor de sono delta, abreviado DSIP, é um neuropeptídeo que quando infundido no ventrículo mesodiencefálico de coelhos receptores induz atividade de fuso e delta no EEG e atividades motoras reduzidas.',
     synonyms:
       'DSIP\nEmideltide;Delta Sleep Inducing Peptide\nSCHEMBL5523007\nFT-0777944',
   },
@@ -211,7 +211,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Delta-sleep-inducing peptide, abbreviated DSIP, is a neuropeptide that when infused into the mesodiencephalic ventricle of recipient rabbits induces spindle and delta EEG activity and reduced motor activities.',
+      'Peptídeo indutor de sono delta, abreviado DSIP, é um neuropeptídeo que quando infundido no ventrículo mesodiencefálico de coelhos receptores induz atividade de fuso e delta no EEG e atividades motoras reduzidas.',
     synonyms:
       'DSIP\nEmideltide;Delta Sleep Inducing Peptide\nSCHEMBL5523007\nFT-0777944',
   },
@@ -222,7 +222,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Epitalon is a synthetic peptide, telomerase activator, and putative anti-aging drug',
+      'Epitalon é um peptídeo sintético, ativador de telomerase e suposto medicamento anti-envelhecimento',
     synonyms: 'Epithalon\nEpitalon\n307297-39-8\nUNII-O65P17785G\nO65P17785G',
   },
   {
@@ -232,7 +232,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Epitalon is a synthetic peptide, telomerase activator, and putative anti-aging drug',
+      'Epitalon é um peptídeo sintético, ativador de telomerase e suposto medicamento anti-envelhecimento',
     synonyms: 'Epithalon\nEpitalon\n307297-39-8\nUNII-O65P17785G\nO65P17785G',
   },
   {
@@ -242,7 +242,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'FTPP-Adipotide is a peptide that binds to the protein prohibitin to destroy white adipose cells within the vascular system. It works by triggering apoptosis, or cell death, in white fat cells. It targets blood vessels specifically, which is why FTPP-Adipotide has been researched for its effects on weight loss as well as on cardiovascular function .',
+      'FTPP-Adipotide é um peptídeo que se liga à proteína proibitina para destruir células adiposas brancas dentro do sistema vascular. Funciona desencadeando apoptose, ou morte celular, em células de gordura branca. Tem como alvo especificamente os vasos sanguíneos, razão pela qual FTPP-Adipotide foi pesquisado por seus efeitos na perda de peso e também na função cardiovascular.',
     synonyms: '',
   },
   {
@@ -252,7 +252,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'FTPP-Adipotide is a peptide that binds to the protein prohibitin to destroy white adipose cells within the vascular system. It works by triggering apoptosis, or cell death, in white fat cells. It targets blood vessels specifically, which is why FTPP-Adipotide has been researched for its effects on weight loss as well as on cardiovascular function .',
+      'FTPP-Adipotide é um peptídeo que se liga à proteína proibitina para destruir células adiposas brancas dentro do sistema vascular. Funciona desencadeando apoptose, ou morte celular, em células de gordura branca. Tem como alvo especificamente os vasos sanguíneos, razão pela qual FTPP-Adipotide foi pesquisado por seus efeitos na perda de peso e também na função cardiovascular.',
     synonyms: '',
   },
   {
@@ -262,7 +262,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Myostatin (also known as growth differentiation factor 8, abbreviated GDF-8) is a myokine, a protein produced and released by myocytes that act on muscle cells’ autocrine function to inhibit myogenesis: muscle cell growth and differentiation.',
+      'Miostatina (também conhecida como fator de diferenciação de crescimento 8, abreviado GDF-8) é uma miocina, uma proteína produzida e liberada por miócitos que atua na função autócrina das células musculares para inibir a miogênese: crescimento e diferenciação de células musculares.',
     synonyms:
       'GDF 8; Growth differentiation factor 8; MSLHP; MSTN; myostatin antibody',
   },
@@ -273,7 +273,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Myostatin (also known as growth differentiation factor 8, abbreviated GDF-8) is a myokine, a protein produced and released by myocytes that act on muscle cells’ autocrine function to inhibit myogenesis: muscle cell growth and differentiation.',
+      'Miostatina (também conhecida como fator de diferenciação de crescimento 8, abreviado GDF-8) é uma miocina, uma proteína produzida e liberada por miócitos que atua na função autócrina das células musculares para inibir a miogênese: crescimento e diferenciação de células musculares.',
     synonyms:
       'GDF 8; Growth differentiation factor 8; MSLHP; MSTN; myostatin antibody',
   },
@@ -284,7 +284,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'is a growth hormone secretagogue (GHS) used as a diagnostic agent that is marketed by Kaken Pharmaceutical in Japan in a single-dose formulation for the assessment of growth hormone deficiency (GHD).',
+      'é um secretagogo do hormônio de crescimento (GHS) usado como agente diagnóstico comercializado pela Kaken Pharmaceutical no Japão em uma formulação de dose única para avaliação de deficiência de hormônio de crescimento (GHD).',
     synonyms:
       'SCHEMBL17513910\nD-Alanyl-3-(naphthalen-2-yl)-D-alanyl-L-alanyl-L-tryptophyl-D-phenylalanyl-L-lysinamide',
   },
@@ -295,7 +295,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'is a growth hormone secretagogue (GHS) used as a diagnostic agent that is marketed by Kaken Pharmaceutical in Japan in a single-dose formulation for the assessment of growth hormone deficiency (GHD).',
+      'é um secretagogo do hormônio de crescimento (GHS) usado como agente diagnóstico comercializado pela Kaken Pharmaceutical no Japão em uma formulação de dose única para avaliação de deficiência de hormônio de crescimento (GHD).',
     synonyms:
       'SCHEMBL17513910\nD-Alanyl-3-(naphthalen-2-yl)-D-alanyl-L-alanyl-L-tryptophyl-D-phenylalanyl-L-lysinamide',
   },
@@ -306,7 +306,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'GHRP-6 is a peptide from the category of growth hormone releasing peptides, ie growth hormone-releasing peptides. The most frequent use of these peptides is an extreme increase in the body’s growth hormone production. The main application area of GHRP-6 is an increase in growth hormone levels, which also results in an increase in IGF1 levels. This also radically supports fat loss as well as muscle building.',
+      'GHRP-6 é um peptídeo da categoria de peptídeos liberadores de hormônio de crescimento. O uso mais frequente desses peptídeos é um aumento extremo na produção de hormônio de crescimento do corpo. A principal área de aplicação do GHRP-6 é o aumento dos níveis de hormônio de crescimento, o que também resulta em aumento dos níveis de IGF1. Isso também apoia radicalmente a perda de gordura e o ganho muscular.',
     synonyms:
       '87616-84-0\nGhrp-6\nGrowth hormone releasing peptide\n(2S)-6-amino-2-[[2-[[(2S)-2-[[(2S)-2-[[(2R)-2-[[(2S)-2 -amino-3-(1H-imidazol-5-yl)p ropanoyl]amino]-3-(1H-indol-3-yl)propanoyl]ami no]propanoyl]amino]-3-(1H-indol-3-yl) propanoyl]amino]-3-phenylpropanoyl ]amino]hexanamide\nSCHEMBL3047866',
   },
@@ -317,7 +317,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'GHRP-6 is a peptide from the category of growth hormone releasing peptides, ie growth hormone-releasing peptides. The most frequent use of these peptides is an extreme increase in the body’s growth hormone production. The main application area of GHRP-6 is an increase in growth hormone levels, which also results in an increase in IGF1 levels. This also radically supports fat loss as well as muscle building.',
+      'GHRP-6 é um peptídeo da categoria de peptídeos liberadores de hormônio de crescimento. O uso mais frequente desses peptídeos é um aumento extremo na produção de hormônio de crescimento do corpo. A principal área de aplicação do GHRP-6 é o aumento dos níveis de hormônio de crescimento, o que também resulta em aumento dos níveis de IGF1. Isso também apoia radicalmente a perda de gordura e o ganho muscular.',
     synonyms:
       '87616-84-0\nGhrp-6\nGrowth hormone releasing peptide\n(2S)-6-amino-2-[[2-[[(2S)-2-[[(2S)-2-[[(2R)-2-[[(2S)-2 -amino-3-(1H-imidazol-5-yl)p ropanoyl]amino]-3-(1H-indol-3-yl)propanoyl]ami no]propanoyl]amino]-3-(1H-indol-3-yl) propanoyl]amino]-3-phenylpropanoyl ]amino]hexanamide\nSCHEMBL3047866',
   },
@@ -328,7 +328,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Glutathione (GSH) is an antioxidant in plants, animals, fungi, and some bacteria and archaea. Glutathione is capable of preventing damage to important cellular components caused by reactive oxygen species such as free radicals, peroxides, lipid peroxides, and heavy metals',
+      'Glutationa (GSH) é um antioxidante em plantas, animais, fungos e algumas bactérias e arqueas. A glutationa é capaz de prevenir danos a componentes celulares importantes causados por espécies reativas de oxigênio, como radicais livres, peróxidos, peróxidos lipídicos e metais pesados',
     synonyms: 'glutathione\n70-18-8\nGlutathion\nL-Glutathione\nIsethion',
   },
   {
@@ -338,7 +338,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Glutathione (GSH) is an antioxidant in plants, animals, fungi, and some bacteria and archaea. Glutathione is capable of preventing damage to important cellular components caused by reactive oxygen species such as free radicals, peroxides, lipid peroxides, and heavy metals',
+      'Glutationa (GSH) é um antioxidante em plantas, animais, fungos e algumas bactérias e arqueas. A glutationa é capaz de prevenir danos a componentes celulares importantes causados por espécies reativas de oxigênio, como radicais livres, peróxidos, peróxidos lipídicos e metais pesados',
     synonyms: 'glutathione\n70-18-8\nGlutathion\nL-Glutathione\nIsethion',
   },
   {
@@ -348,7 +348,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Gonadorelin is a gonadotropin-releasing hormone agonist (GnRH agonist) which is used in fertility medicine and to treat amenorrhea and hypogonadism. It is also used in veterinary medicine',
+      'Gonadorelina é um agonista do hormônio liberador de gonadotrofina (agonista GnRH) que é usado na medicina de fertilidade e para tratar amenorreia e hipogonadismo. Também é usado em medicina veterinária',
     synonyms:
       'GONADORELIN\nLuliberin\nLH-Releasing hormone\n33515-09-2\nLH-Releasing factor',
   },
@@ -359,7 +359,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Gonadorelin is a gonadotropin-releasing hormone agonist (GnRH agonist) which is used in fertility medicine and to treat amenorrhea and hypogonadism. It is also used in veterinary medicine',
+      'Gonadorelina é um agonista do hormônio liberador de gonadotrofina (agonista GnRH) que é usado na medicina de fertilidade e para tratar amenorreia e hipogonadismo. Também é usado em medicina veterinária',
     synonyms:
       'GONADORELIN\nLuliberin\nLH-Releasing hormone\n33515-09-2\nLH-Releasing factor',
   },
@@ -370,7 +370,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Examorelin (INN) , also known as hexarelin, is a potent, synthetic, peptidic, orally-active, centrally-penetrant, and highly selective agonist of the ghrelin/growth hormone secretagogue receptor (GHSR) and a growth hormone secretagogue',
+      'Examorelina (INN), também conhecida como hexarelina, é um agonista potente, sintético, peptídico, oralmente ativo, centralmente penetrante e altamente seletivo do receptor de grelina/secretagogo do hormônio de crescimento (GHSR) e um secretagogo do hormônio de crescimento',
     synonyms: 'Hexarelin\nExamorelin\n140703-51-1\nUNII-09QF37C617\n09QF37C617',
   },
   {
@@ -380,7 +380,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Examorelin (INN) , also known as hexarelin, is a potent, synthetic, peptidic, orally-active, centrally-penetrant, and highly selective agonist of the ghrelin/growth hormone secretagogue receptor (GHSR) and a growth hormone secretagogue',
+      'Examorelina (INN), também conhecida como hexarelina, é um agonista potente, sintético, peptídico, oralmente ativo, centralmente penetrante e altamente seletivo do receptor de grelina/secretagogo do hormônio de crescimento (GHSR) e um secretagogo do hormônio de crescimento',
     synonyms: 'Hexarelin\nExamorelin\n140703-51-1\nUNII-09QF37C617\n09QF37C617',
   },
   {
@@ -390,7 +390,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'HGH fragment 176-191, also known as AOD9604, is a synthetic peptide mimicking the natural ability of human growth hormone (hGH) to break down adipose cells. In fact, this peptide has been shown to do so at a faster rate than the growth hormone peptide',
+      'Fragmento de HGH 176-191, também conhecido como AOD9604, é um peptídeo sintético que imita a capacidade natural do hormônio de crescimento humano (hGH) de quebrar células adiposas. De fato, este peptídeo demonstrou fazer isso a uma taxa mais rápida do que o peptídeo do hormônio de crescimento',
     synonyms:
       'Somatotropin (176-191)\n \n66004-57-7\n \nHuman growth hormone (176-191)\n \nHgh (176-191)\n \nDTXSID10216216',
   },
@@ -401,7 +401,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'HGH fragment 176-191, also known as AOD9604, is a synthetic peptide mimicking the natural ability of human growth hormone (hGH) to break down adipose cells. In fact, this peptide has been shown to do so at a faster rate than the growth hormone peptide',
+      'Fragmento de HGH 176-191, também conhecido como AOD9604, é um peptídeo sintético que imita a capacidade natural do hormônio de crescimento humano (hGH) de quebrar células adiposas. De fato, este peptídeo demonstrou fazer isso a uma taxa mais rápida do que o peptídeo do hormônio de crescimento',
     synonyms:
       'Somatotropin (176-191)\n \n66004-57-7\n \nHuman growth hormone (176-191)\n \nHgh (176-191)\n \nDTXSID10216216',
   },
@@ -412,7 +412,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Ipamorelin (INN) is a peptide selective agonist of the ghrelin/growth hormone secretagogue receptor (GHS) and a growth hormone secretagogue, It is a pentapeptide with the amino acid sequence Aib-His-D-2-Nal-D-Phe-Lys-NH2 that was derived from GHRP-1.',
+      'Ipamor elina (INN) é um agonista seletivo peptídico do receptor de grelina/secretagogo do hormônio de crescimento (GHS) e um secretagogo do hormônio de crescimento. É um pentapeptídeo com a sequência de aminoácidos Aib-His-D-2-Nal-D-Phe-Lys-NH2 que foi derivado de GHRP-1.',
     synonyms:
       'SCHEMBL18428173\n \nDTXSID80168955\n \n(2S)-6-amino-2-[[( 2R)-2-[[(2R)-2-[[(2S)-2-[(2-amino-2-methylpropanoy l)amino]-3-(4H-imidazol-4-yl)propanoyl]amino]-3 -naphthalen-2-ylpropanoyl]amino]-3-phenylpropanoyl] amino]hexanamide\n \n2-methylalanyl-L-his tidyl-3-naphthalen-2-yl-D-alanyl-D-phenylalanyl-L-lysi namide, 2-Methylalanyl-L-hist idyl-3-(2-naphthyl)-D-alanyl-D- phenylalanyl-L-lysinamide',
   },
@@ -423,7 +423,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Ipamorelin (INN) is a peptide selective agonist of the ghrelin/growth hormone secretagogue receptor (GHS) and a growth hormone secretagogue, It is a pentapeptide with the amino acid sequence Aib-His-D-2-Nal-D-Phe-Lys-NH2 that was derived from GHRP-1.',
+      'Ipamor elina (INN) é um agonista seletivo peptídico do receptor de grelina/secretagogo do hormônio de crescimento (GHS) e um secretagogo do hormônio de crescimento. É um pentapeptídeo com a sequência de aminoácidos Aib-His-D-2-Nal-D-Phe-Lys-NH2 que foi derivado de GHRP-1.',
     synonyms:
       'SCHEMBL18428173\n \nDTXSID80168955\n \n(2S)-6-amino-2-[[( 2R)-2-[[(2R)-2-[[(2S)-2-[(2-amino-2-methylpropanoy l)amino]-3-(4H-imidazol-4-yl)propanoyl]amino]-3 -naphthalen-2-ylpropanoyl]amino]-3-phenylpropanoyl] amino]hexanamide\n \n2-methylalanyl-L-his tidyl-3-naphthalen-2-yl-D-alanyl-D-phenylalanyl-L-lysi namide, 2-Methylalanyl-L-hist idyl-3-(2-naphthyl)-D-alanyl-D- phenylalanyl-L-lysinamide',
   },
@@ -434,7 +434,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Palmitoyl pentapeptide-4 is a matrikine used in anti-wrinkle cosmetics.',
+      'Palmitoil pentapeptídeo-4 é uma matricina usada em cosméticos anti-rugas.',
     synonyms:
       '214047-00-4\nL-Serine, N2-(1-oxohexadecy l)-L-lysyl-L-threonyl-L-threonyl-L-lysyl-\nPalmitoyl pentapeptide-3\nPalmitoyl Pentapeptide-4\n(2S,5S,8S,11S,14S)-5,14 -Bis(4-aminobutyl)-8,11-bis((R)-1-hydroxyethyl)-2-( hydroxymethyl)-4,7,10,13,16-pentaoxo- 3,6,9,12,15-pentaazahentriacontan- 1-oic acid',
   },
@@ -445,7 +445,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Palmitoyl pentapeptide-4 is a matrikine used in anti-wrinkle cosmetics.',
+      'Palmitoil pentapeptídeo-4 é uma matricina usada em cosméticos anti-rugas.',
     synonyms:
       '214047-00-4\nL-Serine, N2-(1-oxohexadecy l)-L-lysyl-L-threonyl-L-threonyl-L-lysyl-\nPalmitoyl pentapeptide-3\nPalmitoyl Pentapeptide-4\n(2S,5S,8S,11S,14S)-5,14 -Bis(4-aminobutyl)-8,11-bis((R)-1-hydroxyethyl)-2-( hydroxymethyl)-4,7,10,13,16-pentaoxo- 3,6,9,12,15-pentaazahentriacontan- 1-oic acid',
   },
@@ -456,7 +456,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Palmitoyl pentapeptide-4 is a matrikine used in anti-wrinkle cosmetics. It is an active ingredient for the personal care industry under the trade name Matrixyl.',
+      'Palmitoil pentapeptídeo-4 é uma matricina usada em cosméticos anti-rugas. É um ingrediente ativo para a indústria de cuidados pessoais sob o nome comercial Matrixyl.',
     synonyms:
       '214047-00-4\nL-Serine, N2-(1-oxo  hexadecyl)-L-lysyl-L-threonyl-L-threonyl-L-lysyl-\nPalmitoyl pentapeptide-3\nPalmitoyl Pentapeptide-4\n(2S,5S,8S,11S  ,14S)-5,14-Bis(4-aminobutyl)-8,11-bis((R)-1-hydroxyethyl)-2-(hydroxymethyl)-4,7,10,13,16-pe ntaoxo-3,6,9,12,15-pentaazahent riaco ntan-1-oic acid',
   },
@@ -467,7 +467,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Palmitoyl pentapeptide-4 is a matrikine used in anti-wrinkle cosmetics. It is an active ingredient for the personal care industry under the trade name Matrixyl.',
+      'Palmitoil pentapeptídeo-4 é uma matricina usada em cosméticos anti-rugas. É um ingrediente ativo para a indústria de cuidados pessoais sob o nome comercial Matrixyl.',
     synonyms:
       '214047-00-4\nL-Serine, N2-(1-oxo hexadecyl)-L-lysyl-L-threonyl-L-threonyl-L-lysyl-\nPalmitoyl pentapeptide-3\nPalmitoyl Pentapeptide-4\n(2S,5S,8S,11S ,14S)-5,14-Bis(4-aminobutyl)-8,11-bis((R)-1-hydroxyethyl)-2-(hydroxymethyl)-4,7,10,13,16-pe ntaoxo-3,6,9,12,15-pentaazahent riaco ntan-1-oic acid',
   },
@@ -478,7 +478,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Palmitoyl pentapeptide-4 is a matrikine used in anti-wrinkle cosmetics. It is an active ingredient for the personal care industry under the trade name Matrixyl.',
+      'Palmitoil pentapeptídeo-4 é uma matricina usada em cosméticos anti-rugas. É um ingrediente ativo para a indústria de cuidados pessoais sob o nome comercial Matrixyl.',
     synonyms:
       '214047-00-4\nL-Serine, N2-(1-oxo hexadecyl)-L-lysyl-L-threonyl-L-threonyl-L-lysyl-\nPalmitoyl pentapeptide-3\nPalmitoyl Pentapeptide-4\n(2S,5S,8S,11S ,14S)-5,14-Bis(4-aminobutyl)-8,11-bis((R)-1-hydroxyethyl)-2-(hydroxymethyl)-4,7,10,13,16-pe ntaoxo-3,6,9,12,15-pentaazahent riaco ntan-1-oic acid',
   },
@@ -489,7 +489,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Afamelanotide is a potent alpha-melanocyte-stimulating hormone (αMSH) analogue, which stimulates the production of eumelanin in the skin — a tan. This injectable synthetic melanotropic peptide was previously known as Melanotan I.',
+      'Afamelanotida é um análogo potente do hormônio estimulador de melanócitos alfa (αMSH), que estimula a produção de eumelanina na pele — um bronzeado. Este peptídeo melanotrófico sintético injetável era anteriormente conhecido como Melanotan I.',
     synonyms: 'Melanotan-1\nUNII-QW68W3J66U\nMelanotan I\nCUV1647\nQW68W3J66U',
   },
   {
@@ -519,7 +519,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'MGF stands for mechano growth factor, previously termed IGF-IEb mRNA. It’s a peptide naturally secreted in response to muscle injury and resistance training. It’s an analog of human insulin-like growth factor 1 (IGF-1), so it acts on the same receptors and has similar muscle growth stimulating effects',
+      'MGF significa fator de crescimento mecano, anteriormente denominado mRNA IGF-IEb. É um peptídeo naturalmente secretado em resposta a lesão muscular e treinamento de resistência. É um análogo do fator de crescimento semelhante à insulina humana 1 (IGF-1), portanto atua nos mesmos receptores e tem efeitos estimulantes de crescimento muscular semelhantes',
     synonyms: 'peg MGF,Mechano growth factor,IGF-1 EC',
   },
   {
@@ -529,7 +529,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'MGF stands for mechano growth factor, previously termed IGF-IEb mRNA. It’s a peptide naturally secreted in response to muscle injury and resistance training. It’s an analog of human insulin-like growth factor 1 (IGF-1), so it acts on the same receptors and has similar muscle growth stimulating effects',
+      'MGF significa fator de crescimento mecano, anteriormente denominado mRNA IGF-IEb. É um peptídeo naturalmente secretado em resposta a lesão muscular e treinamento de resistência. É um análogo do fator de crescimento semelhante à insulina humana 1 (IGF-1), portanto atua nos mesmos receptores e tem efeitos estimulantes de crescimento muscular semelhantes',
     synonyms: 'peg MGF,Mechano growth factor,IGF-1 EC',
   },
   {
@@ -539,7 +539,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Oxytocin (Oxt) is a peptide hormone and neuropeptide. It is normally produced in the hypothalamus and released by the posterior pituitary.It plays a role in social bonding, sexual reproduction, childbirth, and the period after childbirth',
+      'Ocitocina (Oxt) é um hormônio peptídico e neuropeptídeo. É normalmente produzida no hipotálamo e liberada pela hipófise posterior. Desempenha um papel no vínculo social, reprodução sexual, parto e no período pós-parto',
     synonyms: 'OXYTOCIN\n50-56-6\nPitocin\nOcytocin\nEndopituitrina',
   },
   {
@@ -549,7 +549,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Oxytocin (Oxt) is a peptide hormone and neuropeptide. It is normally produced in the hypothalamus and released by the posterior pituitary.It plays a role in social bonding, sexual reproduction, childbirth, and the period after childbirth',
+      'Ocitocina (Oxt) é um hormônio peptídico e neuropeptídeo. É normalmente produzida no hipotálamo e liberada pela hipófise posterior. Desempenha um papel no vínculo social, reprodução sexual, parto e no período pós-parto',
     synonyms: 'OXYTOCIN\n50-56-6\nPitocin\nOcytocin\nEndopituitrina',
   },
   {
@@ -559,7 +559,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'P21 is developed from cerebrolysin, which is a peptide that has been used to help patients that have suffered from a stroke to recover some of their brain functions. In recent studies it has come to light that this drug can mitigate against an age-dependent decline in learning and memory.',
+      'P21 é desenvolvido a partir de cerebrolisina, que é um peptídeo que tem sido usado para ajudar pacientes que sofreram um derrame a recuperar algumas de suas funções cerebrais. Em estudos recentes, ficou claro que este medicamento pode mitigar o declínio dependente da idade no aprendizado e na memória.',
     synonyms: 'P21 Peptide;AC–DGGL(A)G-NH2',
   },
   {
@@ -569,7 +569,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'P21 is developed from cerebrolysin, which is a peptide that has been used to help patients that have suffered from a stroke to recover some of their brain functions. In recent studies it has come to light that this drug can mitigate against an age-dependent decline in learning and memory.',
+      'P21 é desenvolvido a partir de cerebrolisina, que é um peptídeo que tem sido usado para ajudar pacientes que sofreram um derrame a recuperar algumas de suas funções cerebrais. Em estudos recentes, ficou claro que este medicamento pode mitigar o declínio dependente da idade no aprendizado e na memória.',
     synonyms: 'P21 Peptide;AC–DGGL(A)G-NH2',
   },
   {
@@ -579,7 +579,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Pal-GHK is a version of GHK designed for better skin penetration, intended to stimulate collagen and skin matrix replenishment via topical application, leading to wrinkle reduction, skin firming, skin roughness improvement, and other benefits.',
+      'Pal-GHK é uma versão de GHK projetada para melhor penetração na pele, destinada a estimular o colágeno e a reposição da matriz cutânea por aplicação tópica, levando à redução de rugas, firmeza da pele, melhoria da aspereza da pele e outros benefícios.',
     synonyms:
       'Palmitoyl oligopeptide\nL-Lysine, N-(1- oxohexadecyl)glycyl-L-histidyl-\n147732-56-7\nPal-Gly-His-Lys-OH\nUNII-RV743D216M',
   },
@@ -590,7 +590,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Pal-GHK is a version of GHK designed for better skin penetration, intended to stimulate collagen and skin matrix replenishment via topical application, leading to wrinkle reduction, skin firming, skin roughness improvement, and other benefits.',
+      'Pal-GHK é uma versão de GHK projetada para melhor penetração na pele, destinada a estimular o colágeno e a reposição da matriz cutânea por aplicação tópica, levando à redução de rugas, firmeza da pele, melhoria da aspereza da pele e outros benefícios.',
     synonyms:
       'Palmitoyl oligopeptideL-Lysine, N-(1-oxohexadecyl)glycyl-L-histidyl-147732-56-7Pal-Gly-His-Lys-OHUNII-RV743D216M',
   },
@@ -601,7 +601,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Pegylated Mechano Growth Factor (PEG MGF) is a derived form of the IGF-1 (insulin-like growth factor-1), which stimulates myoblasts division and allows for muscle fibers to fuse and mature. This is a process necessary for growth of adult muscle.',
+      'Fator de Crescimento Mecano Peguilado (PEG MGF) é uma forma derivada do IGF-1 (fator de crescimento semelhante à insulina-1), que estimula a divisão de mioblastos e permite que as fibras musculares se fundam e amadureçam. Este é um processo necessário para o crescimento do músculo adulto.',
     synonyms: 'PEG-IGF-1 Ec',
   },
   {
@@ -611,7 +611,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Pegylated Mechano Growth Factor (PEG MGF) is a derived form of the IGF-1 (insulin-like growth factor-1), which stimulates myoblasts division and allows for muscle fibers to fuse and mature. This is a process necessary for growth of adult muscle.',
+      'Fator de Crescimento Mecano Peguilado (PEG MGF) é uma forma derivada do IGF-1 (fator de crescimento semelhante à insulina-1), que estimula a divisão de mioblastos e permite que as fibras musculares se fundam e amadureçam. Este é um processo necessário para o crescimento do músculo adulto.',
     synonyms: 'PEG-IGF-1 Ec',
   },
   {
@@ -621,7 +621,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Prostaglandin E1 (PGE1), is a naturally occurring prostaglandin which is used as a medication. In babies with congenital heart defects, it is used by slow injection into a vein to open the ductus arteriosus until surgery can be carried out. By injection into the penis or placement in the urethra, it is used to treat erectile dysfunction.',
+      'Prostaglandina E1 (PGE1) é uma prostaglandina natural que é usada como medicamento. Em bebês com defeitos cardíacos congênitos, é usada por injeção lenta em uma veia para abrir o ducto arterioso até que a cirurgia possa ser realizada. Por injeção no pênis ou colocação na uretra, é usado para tratar disfunção erétil.',
     synonyms:
       'alprostadil\n \nProstaglandin E1\n \n745-65-3\n \nPGE1\n \nCaverject',
   },
@@ -632,7 +632,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Prostaglandin E1 (PGE1), also known as alprostadil, is a naturally occurring prostaglandin which is used as a medication. In babies with congenital heart defects, & used to treat erectile dysfunction',
+      'Prostaglandina E1 (PGE1), também conhecida como alprostadil, é uma prostaglandina natural que é usada como medicamento. Em bebês com defeitos cardíacos congênitos, e usado para tratar disfunção erétil',
     synonyms: 'alprostadil\nProstaglandin E1\n745-65-3\nPGE1\nCaverject',
   },
   {
@@ -642,7 +642,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Prostaglandin E1 (PGE1), is a naturally occurring prostaglandin which is used as a medication. In babies with congenital heart defects, it is used by slow injection into a vein to open the ductus arteriosus until surgery can be carried out. By injection into the penis or placement in the urethra, it is used to treat erectile dysfunction.',
+      'Prostaglandina E1 (PGE1) é uma prostaglandina natural que é usada como medicamento. Em bebês com defeitos cardíacos congênitos, é usada por injeção lenta em uma veia para abrir o ducto arterioso até que a cirurgia possa ser realizada. Por injeção no pênis ou colocação na uretra, é usado para tratar disfunção erétil.',
     synonyms:
       'alprostadil\n \nProstaglandin E1\n \n745-65-3\n \nPGE1\n \nCaverject',
   },
@@ -653,7 +653,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Prostaglandin E1 (PGE1), also known as alprostadil, is a naturally occurring prostaglandin which is used as a medication. In babies with congenital heart defects, & used to treat erectile dysfunction',
+      'Prostaglandina E1 (PGE1), também conhecida como alprostadil, é uma prostaglandina natural que é usada como medicamento. Em bebês com defeitos cardíacos congênitos, e usado para tratar disfunção erétil',
     synonyms: 'alprostadil\nProstaglandin E1\n745-65-3\nPGE1\nCaverject',
   },
   {
@@ -663,7 +663,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Is a synthetic brain peptide that increases cell viability by suppression of free radical levels and activating proliferative processes.. It supports brain function by reducing its peptide deficiency by supporting protein synthesis within its cells. Pinealon is recommended for anyone whose brain may deteriorate, especially the elderly and people with poor memory, attention deficit, brain injury, stroke, high stress, chronic fatigue, depression, insomnia, irritability or diseases such as Alzheimer’s, Parkinson’s, Multiple Sclerosis, Neuralgia, Neuritis, Encephalopathy and demyelinating disease. It is also useful for persons whose occupation requires full attention.',
+      'É um peptídeo cerebral sintético que aumenta a viabilidade celular pela supressão dos níveis de radicais livres e ativação de processos proliferativos. Suporta a função cerebral reduzindo sua deficiência de peptídeos ao apoiar a síntese de proteínas dentro de suas células. Pinealon é recomendado para qualquer pessoa cujo cérebro possa se deteriorar, especialmente idosos e pessoas com memória fraca, déficit de atenção, lesão cerebral, derrame, alto estresse, fadiga crônica, depressão, insônia, irritabilidade ou doenças como Alzheimer, Parkinson, Esclerose Múltipla, Neuralgia, Neurite, Encefalopatia e doença desmielinizante. Também é útil para pessoas cuja ocupação requer atenção total.',
     synonyms:
       'Glu-Asp-Arg\nglutamylaspartylarginine\nQPRZKNOOOBWXSU-UHFFFAOYSA-N',
   },
@@ -674,7 +674,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Is a synthetic brain peptide that increases cell viability by suppression of free radical levels and activating proliferative processes.. It supports brain function by reducing its peptide deficiency by supporting protein synthesis within its cells. Pinealon is recommended for anyone whose brain may deteriorate, especially the elderly and people with poor memory, attention deficit, brain injury, stroke, high stress, chronic fatigue, depression, insomnia, irritability or diseases such as Alzheimer’s, Parkinson’s, Multiple Sclerosis, Neuralgia, Neuritis, Encephalopathy and demyelinating disease. It is also useful for persons whose occupation requires full attention.',
+      'É um peptídeo cerebral sintético que aumenta a viabilidade celular pela supressão dos níveis de radicais livres e ativação de processos proliferativos. Suporta a função cerebral reduzindo sua deficiência de peptídeos ao apoiar a síntese de proteínas dentro de suas células. Pinealon é recomendado para qualquer pessoa cujo cérebro possa se deteriorar, especialmente idosos e pessoas com memória fraca, déficit de atenção, lesão cerebral, derrame, alto estresse, fadiga crônica, depressão, insônia, irritabilidade ou doenças como Alzheimer, Parkinson, Esclerose Múltipla, Neuralgia, Neurite, Encefalopatia e doença desmielinizante. Também é útil para pessoas cuja ocupação requer atenção total.',
     synonyms:
       'Glu-Asp-Arg\nglutamylaspartylarginine\nQPRZKNOOOBWXSU-UHFFFAOYSA-N',
   },
@@ -685,7 +685,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'the anti-cancer peptide, which is a membrane-active peptide that binds to the HDM-2 protein expressed in the cancer cell membranes of solid tissue tumour cells and induces transmembrane pore formation in cancer cells. Also, PNC-27 is a peptide that contains p53 protein amino acid residues 12–26 of its HDM-2 binding domain attached to a transmembrane-penetrating sequence, also called the membrane residency peptide (MRP) .',
+      'o peptídeo anticâncer, que é um peptídeo ativo de membrana que se liga à proteína HDM-2 expressa nas membranas de células cancerosas de células tumorais de tecido sólido e induz a formação de poros transmembrana em células cancerosas. Além disso, PNC-27 é um peptídeo que contém resíduos de aminoácidos 12–26 da proteína p53 de seu domínio de ligação HDM-2 anexado a uma sequência penetrante de transmembrana, também chamado de peptídeo de residência de membrana (MRP).',
     synonyms: 'p53 12–26-leader,p53-derived peptide,',
   },
   {
@@ -695,7 +695,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'the anti-cancer peptide, which is a membrane-active peptide that binds to the HDM-2 protein expressed in the cancer cell membranes of solid tissue tumour cells and induces transmembrane pore formation in cancer cells. Also, PNC-27 is a peptide that contains p53 protein amino acid residues 12–26 of its HDM-2 binding domain attached to a transmembrane-penetrating sequence, also called the membrane residency peptide (MRP) .',
+      'o peptídeo anticâncer, que é um peptídeo ativo de membrana que se liga à proteína HDM-2 expressa nas membranas de células cancerosas de células tumorais de tecido sólido e induz a formação de poros transmembrana em células cancerosas. Além disso, PNC-27 é um peptídeo que contém resíduos de aminoácidos 12–26 da proteína p53 de seu domínio de ligação HDM-2 anexado a uma sequência penetrante de transmembrana, também chamado de peptídeo de residência de membrana (MRP).',
     synonyms: 'p53 12–26-leader,p53-derived peptide,',
   },
   {
@@ -705,7 +705,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Bremelanotide, is a medication used to treat low sexual desire in women. Specifically it is used for low sexual desire which occurs before menopause and is not due to medical problems, psychiatric problems, or problems within the relationship.',
+      'Bremelanotida é um medicamento usado para tratar baixo desejo sexual em mulheres. Especificamente, é usado para baixo desejo sexual que ocorre antes da menopausa e não é devido a problemas médicos, problemas psiquiátricos ou problemas dentro do relacionamento.',
     synonyms: 'Bremelanotide\nPT-141\n189691-06-3\nUNII-6Y24O4F92S\n6Y24O4F92S',
   },
   {
@@ -715,7 +715,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Bremelanotide, is a medication used to treat low sexual desire in women. Specifically it is used for low sexual desire which occurs before menopause and is not due to medical problems, psychiatric problems, or problems within the relationship.',
+      'Bremelanotida é um medicamento usado para tratar baixo desejo sexual em mulheres. Especificamente, é usado para baixo desejo sexual que ocorre antes da menopausa e não é devido a problemas médicos, problemas psiquiátricos ou problemas dentro do relacionamento.',
     synonyms: 'Bremelanotide\nPT-141\n189691-06-3\nUNII-6Y24O4F92S\n6Y24O4F92S',
   },
   {
@@ -725,7 +725,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'PTD-DBM is a man-made peptide which interacts with the mechanism of the hair loss linked endogenous protein, CXXC5. Application of the peptide to bald laboratory mice resulted in new hair follicle growth.',
+      'PTD-DBM é um peptídeo sintético que interage com o mecanismo da proteína endógena ligada à perda de cabelo, CXXC5. A aplicação do peptídeo em camundongos de laboratório calvos resultou em crescimento de novos folículos capilares.',
     synonyms: '',
   },
   {
@@ -735,7 +735,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'PTD-DBM is a man-made peptide which interacts with the mechanism of the hair loss linked endogenous protein, CXXC5. Application of the peptide to bald laboratory mice resulted in new hair follicle growth.',
+      'PTD-DBM é um peptídeo sintético que interage com o mecanismo da proteína endógena ligada à perda de cabelo, CXXC5. A aplicação do peptídeo em camundongos de laboratório calvos resultou em crescimento de novos folículos capilares.',
     synonyms: '',
   },
   {
@@ -745,7 +745,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'RU-58841, also known as PSK-3841 or HMR-3841, is a nonsteroidal antiandrogen (NSAA) used as a topical treatment for androgen-dependent conditions including acne, pattern hair loss, and excessive hair growth.',
+      'RU-58841, também conhecido como PSK-3841 ou HMR-3841, é um antiandrogênio não esteroidal (NSAA) usado como tratamento tópico para condições dependentes de androgênios, incluindo acne, perda de cabelo padrão e crescimento excessivo de cabelo.',
     synonyms:
       '154992-24-2\nRU 58841\nRU58841\nRU-58841\n4-(3-(4-hydroxybutyl)-4,4-dimethyl-2,5-dioxoimidazolidin-1-yl)-2-(trifluoromethyl) benzonitrile',
   },
@@ -756,7 +756,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'RU-58841, also known as PSK-3841 or HMR-3841, is a nonsteroidal antiandrogen (NSAA) used as a topical treatment for androgen-dependent conditions including acne, pattern hair loss, and excessive hair growth.',
+      'RU-58841, também conhecido como PSK-3841 ou HMR-3841, é um antiandrogênio não esteroidal (NSAA) usado como tratamento tópico para condições dependentes de androgênios, incluindo acne, perda de cabelo padrão e crescimento excessivo de cabelo.',
     synonyms:
       '154992-24-2\nRU 58841\nRU58841\nRU-58841\n4-(3-(4-hydroxybutyl)-4,4-dimethyl-2,5-dioxoimidazolidin-1-yl)-2-(trifluoromethyl) benzonitrile',
   },
@@ -787,7 +787,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Semax is a drug which is used mostly in Russia and Ukraine for a broad range of conditions but predominantly for its purported nootropic, neuroprotective, and neurogenic/neurorestorative properties.',
+      'Semax é um medicamento usado principalmente na Rússia e Ucrânia para uma ampla gama de condições, mas predominantemente por suas supostas propriedades nootrópicas, neuroprotetoras e neurogênicas/neurorrestauradoras.',
     synonyms:
       'Semax\n80714-61-0\nPro-gly-pro-acth (4-7)\nACTH (4-7), Pro-Gly-Pro-\nACTH (4-7), prolyl-glycyl-proline-',
   },
@@ -798,7 +798,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Semax is a drug which is used mostly in Russia and Ukraine for a broad range of conditions but predominantly for its purported nootropic, neuroprotective, and neurogenic/neurorestorative properties.',
+      'Semax é um medicamento usado principalmente na Rússia e Ucrânia para uma ampla gama de condições, mas predominantemente por suas supostas propriedades nootrópicas, neuroprotetoras e neurogênicas/neurorrestauradoras.',
     synonyms:
       'Semax\n80714-61-0\nPro-gly-pro-acth (4-7)\nACTH (4-7), Pro-Gly-Pro-\nACTH (4-7), prolyl-glycyl-proline-',
   },
@@ -809,7 +809,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Sermorelin acetate also known as GHRH (1-29), is a peptide analogue of growth hormone-releasing hormone (GHRH) which is used as a diagnostic agent to assess growth hormone (GH) secretion for the purpose of diagnosing growth hormone deficiency. I',
+      'Acetato de sermor elina, também conhecido como GHRH (1-29), é um análogo peptídico do hormônio liberador do hormônio de crescimento (GHRH) que é usado como agente diagnóstico para avaliar a secreção do hormônio de crescimento (GH) com o propósito de diagnosticar deficiência de hormônio de crescimento.',
     synonyms:
       'SERMORELIN\nUNII-89243S03TE\n89243S03TE\n86168-78-7\n114466-38-5',
   },
@@ -820,7 +820,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Sermorelin acetate also known as GHRH (1-29), is a peptide analogue of growth hormone-releasing hormone (GHRH) which is used as a diagnostic agent to assess growth hormone (GH) secretion for the purpose of diagnosing growth hormone deficiency. I',
+      'Acetato de sermor elina, também conhecido como GHRH (1-29), é um análogo peptídico do hormônio liberador do hormônio de crescimento (GHRH) que é usado como agente diagnóstico para avaliar a secreção do hormônio de crescimento (GH) com o propósito de diagnosticar deficiência de hormônio de crescimento.',
     synonyms:
       'SERMORELIN\nUNII-89243S03TE\n89243S03TE\n86168-78-7\n114466-38-5',
   },
@@ -831,7 +831,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'SNAP-8, also known as acetyl octapeptide-3, is a peptide used in anti-aging skin care treatments. It’s a more potent analog of acetyl hexapeptide-8, also known as Argireline.',
+      'SNAP-8, também conhecido como acetil octapeptídeo-3, é um peptídeo usado em tratamentos de cuidados com a pele anti-envelhecimento. É um análogo mais potente de acetil hexapeptídeo-8, também conhecido como Argireline.',
     synonyms:
       'Acetyl octapeptide-3\n \nUNII-8K14HJF88S\n \n8K14HJF88S\n \nAcetyl-glu-glu-met-gln-arg-arg-ala-asp-amide\n \nDTXSID70235943',
   },
@@ -842,7 +842,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'SNAP-8, also known as acetyl octapeptide-3, is a peptide used in anti-aging skin care treatments. It’s a more potent analog of acetyl hexapeptide-8, also known as Argireline.',
+      'SNAP-8, também conhecido como acetil octapeptídeo-3, é um peptídeo usado em tratamentos de cuidados com a pele anti-envelhecimento. É um análogo mais potente de acetil hexapeptídeo-8, também conhecido como Argireline.',
     synonyms:
       'Acetyl octapeptide-3\n \nUNII-8K14HJF88S\n \n8K14HJF88S\n \nAcetyl-glu-glu-met-gln-arg-arg-ala-asp-amide\n \nDTXSID70235943',
   },
@@ -873,7 +873,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Tesamorelin (INN) is a synthetic form of growth-hormone-releasing hormone (GHRH) which is used in the treatment of HIV-associated lipodystrophy.',
+      'Tesamorelina (INN) é uma forma sintética do hormônio liberador do hormônio de crescimento (GHRH) que é usado no tratamento da lipodistrofia associada ao HIV.',
     synonyms: 'UNII-MQG94M5EEOMQG94M5EEOTH9507EgriftaTesamorelin [USAN:INN]',
   },
   {
@@ -883,7 +883,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Tesamorelin (INN) is a synthetic form of growth-hormone-releasing hormone (GHRH) which is used in the treatment of HIV-associated lipodystrophy.',
+      'Tesamorelina (INN) é uma forma sintética do hormônio liberador do hormônio de crescimento (GHRH) que é usado no tratamento da lipodistrofia associada ao HIV.',
     synonyms:
       'UNII-MQG94M5EEO\nMQG94M5EEO\nTH9507\nEgrifta\nTesamorelin [USAN:INN]',
   },
@@ -894,7 +894,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Thymulin is a nonapeptide produced by two distinct epithelial populations in the thymus, The hormone is believed to be involved in T-cell differentiation and enhancement of T and NK cell actions.[1] Besides this rather paracrine or auto-organic effects on the thymus dependent immune system, thymulin seems to have neuroendocrine effects as well.',
+      'Timulina é um nonapeptídeo produzido por duas populações epiteliais distintas no timo. Acredita-se que o hormônio esteja envolvido na diferenciação de células T e no aumento das ações de células T e NK. Além desses efeitos parácrinos ou auto-orgânicos no sistema imunológico dependente do timo, a timulina parece ter efeitos neuroendócrinos também.',
     synonyms:
       'Nonathymulin\n \nThymulin\n \nSerum thymic factor\n \n63958-90-7\n \nThymic factor',
   },
@@ -905,7 +905,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Thymulin is a nonapeptide produced by two distinct epithelial populations in the thymus, The hormone is believed to be involved in T-cell differentiation and enhancement of T and NK cell actions.[1] Besides this rather paracrine or auto-organic effects on the thymus dependent immune system, thymulin seems to have neuroendocrine effects as well.',
+      'Timulina é um nonapeptídeo produzido por duas populações epiteliais distintas no timo. Acredita-se que o hormônio esteja envolvido na diferenciação de células T e no aumento das ações de células T e NK. Além desses efeitos parácrinos ou auto-orgânicos no sistema imunológico dependente do timo, a timulina parece ter efeitos neuroendócrinos também.',
     synonyms:
       'Nonathymulin\n \nThymulin\n \nSerum thymic factor\n \n63958-90-7\n \nThymic factor',
   },
@@ -916,7 +916,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Thymosin α1 is believed to be a major component of Thymosin Fraction 5 responsible for the activity of that preparation in restoring immune function in animals lacking thymus glands. It has been found to enhance cell-mediated immunity in humans as well as experimental animals.',
+      'Timosina α1 é considerada um componente principal da Fração 5 de Timosina responsável pela atividade dessa preparação na restauração da função imunológica em animais sem glândulas timo. Foi descoberto que aumenta a imunidade mediada por células em humanos e também em animais experimentais.',
     synonyms:
       'THYMOSIN ALPHA 1;THYMOSIN ALPHA1 BOVINE;THYMOSIN APHA 1;ZADAXIN;Thymosin α1 Acetate;Thymosin αAcetate salt;Thymalfasin Acetate salt;Thymosin α 1 Acetate(Thymalfasin',
   },
@@ -927,7 +927,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Thymosin α1 is believed to be a major component of Thymosin Fraction 5 responsible for the activity of that preparation in restoring immune function in animals lacking thymus glands. It has been found to enhance cell-mediated immunity in humans as well as experimental animals.',
+      'Timosina α1 é considerada um componente principal da Fração 5 de Timosina responsável pela atividade dessa preparação na restauração da função imunológica em animais sem glândulas timo. Foi descoberto que aumenta a imunidade mediada por células em humanos e também em animais experimentais.',
     synonyms:
       'THYMOSIN ALPHA 1;THYMOSIN ALPHA1 BOVINE;THYMOSIN APHA 1;ZADAXIN;Thymosin α1 Acetate;Thymosin αAcetate salt;Thymalfasin Acetate salt;Thymosin α 1 Acetate(Thymalfasin',
   },
@@ -938,7 +938,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Thymosin beta-4 is a protein that in humans is encoded by the TMSB4X gene\nTB-500 (Thymosin-Beta4) is a peptide that can be used to promote healing, to increase the range of movement in the event of injuries, or to alleviate pain in the event of injury by reducing inflammation.',
+      'Timosina beta-4 é uma proteína que em humanos é codificada pelo gene TMSB4X\nTB-500 (Timosina-Beta4) é um peptídeo que pode ser usado para promover a cura, aumentar a amplitude de movimento em caso de lesões ou aliviar a dor em caso de lesão reduzindo a inflamação.',
     synonyms:
       'Thymosin beta(4)\nThymosin Beta 4\n \n77591-33-4\nThymosin beta4\nFx Peptide',
   },
@@ -949,7 +949,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Thymosin beta-4 is a protein that in humans is encoded by the TMSB4X gene\nTB-500 (Thymosin-Beta4) is a peptide that can be used to promote healing, to increase the range of movement in the event of injuries, or to alleviate pain in the event of injury by reducing inflammation.',
+      'Timosina beta-4 é uma proteína que em humanos é codificada pelo gene TMSB4X\nTB-500 (Timosina-Beta4) é um peptídeo que pode ser usado para promover a cura, aumentar a amplitude de movimento em caso de lesões ou aliviar a dor em caso de lesão reduzindo a inflamação.',
     synonyms:
       'Thymosin beta(4)\nThymosin Beta 4\n \n77591-33-4\nThymosin beta4\nFx Peptide',
   },
@@ -960,7 +960,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Triptorelin, is a medication that acts as an agonist analog of Gonadotropin-releasing hormone, thus reversibly repressing of luteinizing hormone (LH) and follicle-stimulating hormone (FSH)[',
+      'Triptorelina é um medicamento que atua como análogo agonista do hormônio liberador de gonadotrofina, reprimindo assim reversivelmente o hormônio luteinizante (LH) e o hormônio folículo-estimulante (FSH)',
     synonyms:
       'TRIPTORELIN\n57773-63-4\nTriptoreline\nDecapeptyl\n(D-Trp6)-GnRH',
   },
@@ -971,7 +971,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Triptorelin, is a medication that acts as an agonist analog of Gonadotropin-releasing hormone, thus reversibly repressing of luteinizing hormone (LH) and follicle-stimulating hormone (FSH)[',
+      'Triptorelina é um medicamento que atua como análogo agonista do hormônio liberador de gonadotrofina, reprimindo assim reversivelmente o hormônio luteinizante (LH) e o hormônio folículo-estimulante (FSH)',
     synonyms:
       'TRIPTORELIN\n57773-63-4\nTriptoreline\nDecapeptyl\n(D-Trp6)-GnRH',
   },
@@ -982,7 +982,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'des(1-3)IGF-1 is a naturally occurring, endogenous protein, as well as drug, and truncated analogue of insulin-like growth factor 1 (IGF-1)',
+      'des(1-3)IGF-1 é uma proteína endógena de ocorrência natural, bem como medicamento, e análogo truncado do fator de crescimento semelhante à insulina 1 (IGF-1)',
     synonyms:
       'Somatomedin C, IGF-I, IGFI, IGF1, IGF-IA, Mechano growth factor, MGF, Des(1-3), Des1-3, Des 1-3, Des (1-3), IGF-1 (4-70)',
   },
@@ -993,7 +993,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'des(1-3)IGF-1 is a naturally occurring, endogenous protein, as well as drug, and truncated analogue of insulin-like growth factor 1 (IGF-1)',
+      'des(1-3)IGF-1 é uma proteína endógena de ocorrência natural, bem como medicamento, e análogo truncado do fator de crescimento semelhante à insulina 1 (IGF-1)',
     synonyms:
       'Somatomedin C, IGF-I, IGFI, IGF1, IGF-IA, Mechano growth factor, MGF, Des(1-3), Des1-3, Des 1-3, Des (1-3), IGF-1 (4-70)',
   },
@@ -1004,7 +1004,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Follistatin (FST) 344 is a synthetic version of the naturally occurring human follistatin protein. Follistatin is found in nearly all tissues of higher animals and comes in two separate isoforms as a result of alternative gene splicing. Its primary biological function is neutralization of proteins in the TGF-beta superfamily. It has particularly potent neutralizing effects on activin, myostatin, and follicle-stimulating hormone.',
+      'Folistatina (FST) 344 é uma versão sintética da proteína folistatina humana de ocorrência natural. A folistatina é encontrada em quase todos os tecidos de animais superiores e vem em duas isoformas separadas como resultado de splicing alternativo de genes. Sua função biológica primária é a neutralização de proteínas na superfamília TGF-beta. Tem efeitos neutralizantes particularmente potentes sobre activina, miostatina e hormônio folículo-estimulante.',
     synonyms: 'Activin-Binding Protein, FSH-Suppressing Protein, FST',
   },
   {
@@ -1014,7 +1014,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Follistatin (FST) 344 is a synthetic version of the naturally occurring human follistatin protein. Follistatin is found in nearly all tissues of higher animals and comes in two separate isoforms as a result of alternative gene splicing. Its primary biological function is neutralization of proteins in the TGF-beta superfamily. It has particularly potent neutralizing effects on activin, myostatin, and follicle-stimulating hormone.',
+      'Folistatina (FST) 344 é uma versão sintética da proteína folistatina humana de ocorrência natural. A folistatina é encontrada em quase todos os tecidos de animais superiores e vem em duas isoformas separadas como resultado de splicing alternativo de genes. Sua função biológica primária é a neutralização de proteínas na superfamília TGF-beta. Tem efeitos neutralizantes particularmente potentes sobre activina, miostatina e hormônio folículo-estimulante.',
     synonyms: 'Activin-Binding Protein, FSH-Suppressing Protein, FST',
   },
   {
@@ -1024,7 +1024,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Human chorionic gonadotropin (hCG) is a glycoprotein hormone produced during pregnancy. It is made by the developing embryo soon after conception. Its role is to prevent the disintegration of the corpus luteum of the ovary and thereby maintain progesterone production that is critical for a pregnancy in humans.\nIt can be used as a tumour marker as its β subunit is secreted by some cancers including seminoma, choriocarcinoma, germ cell tumours, hydatidiform mole, teratoma with elements of choriocarcinoma, and islet cell tumour.',
+      'Gonadotrofina coriônica humana (hCG) é um hormônio glicoproteico produzido durante a gravidez. É produzido pelo embrião em desenvolvimento logo após a concepção. Seu papel é prevenir a desintegração do corpo lúteo do ovário e assim manter a produção de progesterona que é crítica para uma gravidez em humanos.\nPode ser usado como marcador tumoral, pois sua subunidade β é secretada por alguns cânceres, incluindo seminoma, coriocarcinoma, tumores de células germinativas, mola hidatiforme, teratoma com elementos de coriocarcinoma e tumor de células das ilhotas.',
     synonyms:
       'Chorionic gonadotrophin\nChorionic gonadotropin\nGonadotropin, Chorionic\nGonadotropin,chorionic\nh-HCGhCG\nHuman chorionic gonadotropin\nHuman menopausal gonadotropin\nHuman menopausal gonadotropin (urine derived)\nHuman-chorionic gonadotropin\nUrinary hCG',
   },
@@ -1035,7 +1035,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Human chorionic gonadotropin (hCG) is a glycoprotein hormone produced during pregnancy. It is made by the developing embryo soon after conception. Its role is to prevent the disintegration of the corpus luteum of the ovary and thereby maintain progesterone production that is critical for a pregnancy in humans.\nIt can be used as a tumour marker as its β subunit is secreted by some cancers including seminoma, choriocarcinoma, germ cell tumours, hydatidiform mole, teratoma with elements of choriocarcinoma, and islet cell tumour.',
+      'Gonadotrofina coriônica humana (hCG) é um hormônio glicoproteico produzido durante a gravidez. É produzido pelo embrião em desenvolvimento logo após a concepção. Seu papel é prevenir a desintegração do corpo lúteo do ovário e assim manter a produção de progesterona que é crítica para uma gravidez em humanos.\nPode ser usado como marcador tumoral, pois sua subunidade β é secretada por alguns cânceres, incluindo seminoma, coriocarcinoma, tumores de células germinativas, mola hidatiforme, teratoma com elementos de coriocarcinoma e tumor de células das ilhotas.',
     synonyms:
       'Chorionic gonadotrophin\nChorionic gonadotropin\nGonadotropin, Chorionic\nGonadotropin,chorionic\nh-HCGhCG\nHuman chorionic gonadotropin\nHuman menopausal gonadotropin\nHuman menopausal gonadotropin (urine derived)\nHuman-chorionic gonadotropin\nUrinary hCG',
   },
@@ -1046,7 +1046,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Long arginine 3-IGF-1, abbreviated as IGF-1 LR3 or LR3-IGF-1, is a synthetic protein and lengthened analogue of human insulin-like growth factor 1 (IGF-1).\nIt is a major hormonal mediator of stature growth.',
+      'Arginina longa 3-IGF-1, abreviado como IGF-1 LR3 ou LR3-IGF-1, é uma proteína sintética e análogo alongado do fator de crescimento semelhante à insulina humana 1 (IGF-1).\nÉ um importante mediador hormonal do crescimento da estatura.',
     synonyms: 'Long R3-IGF-1;\nIGF-1 Long R3',
   },
   {
@@ -1056,7 +1056,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Long arginine 3-IGF-1, abbreviated as IGF-1 LR3 or LR3-IGF-1, is a synthetic protein and lengthened analogue of human insulin-like growth factor 1 (IGF-1).\nIt is a major hormonal mediator of stature growth.',
+      'Arginina longa 3-IGF-1, abreviado como IGF-1 LR3 ou LR3-IGF-1, é uma proteína sintética e análogo alongado do fator de crescimento semelhante à insulina humana 1 (IGF-1).\nÉ um importante mediador hormonal do crescimento da estatura.',
     synonyms: 'Long R3-IGF-1;\nIGF-1 Long R3',
   },
   {
@@ -1066,7 +1066,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'in its human form, is a peptide hormone that stimulates growth, cell reproduction, and cell regeneration in humans and other animals. It is thus important in human development. GH also stimulates production of IGF-1 and increases the concentration of glucose and free fatty acids.',
+      'em sua forma humana, é um hormônio peptídico que estimula o crescimento, reprodução celular e regeneração celular em humanos e outros animais. É, portanto, importante no desenvolvimento humano. O GH também estimula a produção de IGF-1 e aumenta a concentração de glicose e ácidos graxos livres.',
     synonyms:
       'Growth hormone\nGrowth hormone (human)\nhGH\nHuman growth hormone\nRecombinant human growth hormone\nrhGH\nSomatotropin (human)\nSomatotropin human\nSomatotropin human growth hormone\nSomatropin\nSomatropin (rDNA origin)\nSomatropin (recombinant DNA origin)\nSomatropin [rDNA origin]\nSomatropin recombinant\nSomatropin(recombinant DNA origin)\nSomatropina',
   },
@@ -1077,7 +1077,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'in its human form, is a peptide hormone that stimulates growth, cell reproduction, and cell regeneration in humans and other animals. It is thus important in human development. GH also stimulates production of IGF-1 and increases the concentration of glucose and free fatty acids.',
+      'em sua forma humana, é um hormônio peptídico que estimula o crescimento, reprodução celular e regeneração celular em humanos e outros animais. É, portanto, importante no desenvolvimento humano. O GH também estimula a produção de IGF-1 e aumenta a concentração de glicose e ácidos graxos livres.',
     synonyms:
       'Growth hormone\nGrowth hormone (human)\nhGH\nHuman growth hormone\nRecombinant human growth hormone\nrhGH\nSomatotropin (human)\nSomatotropin human\nSomatotropin human growth hormone\nSomatropin\nSomatropin (rDNA origin)\nSomatropin (recombinant DNA origin)\nSomatropin [rDNA origin]\nSomatropin recombinant\nSomatropin(recombinant DNA origin)\nSomatropina',
   },
@@ -1088,7 +1088,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'in its human form, is a peptide hormone that stimulates growth, cell reproduction, and cell regeneration in humans and other animals. It is thus important in human development. GH also stimulates production of IGF-1 and increases the concentration of glucose and free fatty acids.',
+      'em sua forma humana, é um hormônio peptídico que estimula o crescimento, reprodução celular e regeneração celular em humanos e outros animais. É, portanto, importante no desenvolvimento humano. O GH também estimula a produção de IGF-1 e aumenta a concentração de glicose e ácidos graxos livres.',
     synonyms:
       'Growth hormoneGrowth hormone (human)hGHHuman growth hormoneRecombinant human growth hormonerhGHSomatotropin (human)Somatotropin humanSomatotropin human growth hormoneSomatropinSomatropin (rDNA origin)Somatropin (recombinant DNA origin)Somatropin [rDNA origin]Somatropin recombinantSomatropin(recombinant DNA origin)Somatropina',
   },
@@ -1099,7 +1099,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'TESTOSTERONES SERIES',
     description__1:
-      'Testosterone enanthate, is an androgen and anabolic steroid (AAS) medication which is used mainly in the treatment of low testosterone levels in men. It is also used in hormone therapy for transgender men.',
+      'Enantato de testosterona é um medicamento androgênico e esteroide anabolizante (AAS) que é usado principalmente no tratamento de baixos níveis de testosterona em homens. Também é usado em terapia hormonal para homens transgêneros.',
     synonyms:
       'testosterone enanthate\n315-37-7\nTestosterone heptanoate\nTestosterone enantate\nTestosterone heptylate',
   },
@@ -1110,7 +1110,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'TESTOSTERONES SERIES',
     description__1:
-      'Testosterone cypionate, is an androgen and anabolic steroid (AAS) medication which is used mainly in the treatment of low testosterone levels in men. It is also used in hormone therapy for transgender men.',
+      'Cipionato de testosterona é um medicamento androgênico e esteroide anabolizante (AAS) que é usado principalmente no tratamento de baixos níveis de testosterona em homens. Também é usado em terapia hormonal para homens transgêneros.',
     synonyms:
       'TESTOSTERONE CYPIONATE\n58-20-8\nTestosterone cyclopentylpropionate\nTestosterone cyclopentanepropionate\nTestosterone 17beta-cypionate',
   },
@@ -1121,7 +1121,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'TESTOSTERONES SERIES',
     description__1:
-      'Testosterone undecanoate, is an androgen and anabolic steroid (AAS) medication which is used mainly in the treatment of low testosterone levels in men. which includes hormone therapy for transgender men.',
+      'Undecanoato de testosterona é um medicamento androgênico e esteroide anabolizante (AAS) que é usado principalmente no tratamento de baixos níveis de testosterona em homens, o que inclui terapia hormonal para homens transgêneros.',
     synonyms:
       'Testosterone undecanoate\n5949-44-0\nAndriol\nTestosterone undecylate\nUndestor',
   },
@@ -1132,7 +1132,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'TESTOSTERONES SERIES',
     description__1:
-      'is an androgen and anabolic steroid medication and a testosterone ester which has been used as a component of mixed testosterone ester preparations.',
+      'é um medicamento androgênico e esteroide anabolizante e um éster de testosterona que tem sido usado como componente de preparações mistas de ésteres de testosterona.',
     synonyms:
       'Testosterone isocaproate\n15262-86-9\nTestosterone isocapronate\nUNII-X8ST05GYDM\nCHEBI:35001',
   },
@@ -1143,7 +1143,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'TESTOSTERONES SERIES',
     description__1:
-      'Testosterone propionate, is an androgen and anabolic steroid (AAS) medication which is used mainly in the treatment of low testosterone levels in men. It has also been used to treat breast cancer in women.',
+      'Propionato de testosterona é um medicamento androgênico e esteroide anabolizante (AAS) que é usado principalmente no tratamento de baixos níveis de testosterona em homens. Também foi usado para tratar câncer de mama em mulheres.',
     synonyms:
       'testosterone propionate\n57-85-2\nAgovirin\nAndrolon\nAndroteston',
   },
@@ -1154,7 +1154,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'TRENBOLONES SERIES',
     description__1:
-      'Trenbolone acetate, is an androgen and anabolic steroid (AAS) medication which is used in veterinary medicine, specifically to increase the profitability of livestock by promoting muscle growth in cattle.',
+      'Acetato de trembolona é um medicamento androgênico e esteroide anabolizante (AAS) usado em medicina veterinária, especificamente para aumentar a lucratividade do gado promovendo crescimento muscular em bovinos.',
     synonyms:
       'Trenbolone acetate\n10161-34-9\nFinaplix\nTrienbolone acetate\nTrenbolone 17-acetate',
   },
@@ -1165,7 +1165,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'TRENBOLONES SERIES',
     description__1:
-      'Trenbolone enanthate, is a synthetic and injected anabolic–androgenic steroid (AAS) and a derivative of nandrolone which was never marketed.It is the C17β enanthate ester and a long-acting prodrug of trenbolone. Trenbolone enanthate was never approved for medical or veterinary use but is used in scientific research',
+      'Enantato de trembolona é um esteroide anabólico-androgênico (AAS) sintético e injetável e um derivado de nandrolona que nunca foi comercializado. É o éster enantato C17β e um pró-fármaco de ação prolongada de trembolona. O enantato de trembolona nunca foi aprovado para uso médico ou veterinário, mas é usado em pesquisa científica',
     synonyms:
       'Trenbolone Enanthate\nUNII-FF02TM6THR\nFF02TM6THR\n1629618-98-9\nTrenbolone Enantate',
   },
@@ -1176,7 +1176,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'TRENBOLONES SERIES',
     description__1:
-      'Trenbolone hexahydrobenzylcarbonate, or trenbolone cyclohexylmethylcarbonate, is a synthetic, injected anabolic–androgenic steroid (AAS) of the nandrolone group and an androgen ester, which was marketed in France for medical use in humans but has since been discontinued.',
+      'Hexaidrobenzilcarbonato de trembolona, ou cicloexilmetilcarbonato de trembolona, é um esteroide anabólico-androgênico (AAS) sintético e injetável do grupo nandrolona e um éster de androgênio, que foi comercializado na França para uso médico em humanos, mas foi descontinuado desde então.',
     synonyms:
       'Trenbolone cyclohexylmethylcarbonate\n23454-33-3\nUNII-BNJ7Y3JFF2\nTrenbolone Hexahydrobenzyl Carbonate\nBNJ7Y3JFF2',
   },
@@ -1197,7 +1197,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'NANDROLONE SERIES',
     description__1:
-      'Nandrolone decanoate, is an androgen and anabolic steroid (AAS) medication which is used primarily in the treatment of anaemias and wasting syndromes, as well as osteoporosis in menopausal women',
+      'Decanoato de nandrolona é um medicamento androgênico e esteroide anabolizante (AAS) que é usado principalmente no tratamento de anemias e síndromes de emagrecimento, bem como osteoporose em mulheres na menopausa',
     synonyms:
       'NANDROLONE DECANOATE\n360-70-3\nRetabolil\n19-Nortestosterone decanoate\nNortestosterone decanoate',
   },
@@ -1217,7 +1217,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'NANDROLONE SERIES',
     description__1:
-      'Nandrolone phenylpropionate (NPP), or nandrolone phenpropionate, is an androgen and anabolic steroid (AAS) medication which has been used primarily in the treatment of breast cancer and osteoporosis in women.',
+      'Fenilpropionato de nandrolona (NPP), ou fenpropionato de nandrolona, é um medicamento androgênico e esteroide anabolizante (AAS) que tem sido usado principalmente no tratamento de câncer de mama e osteoporose em mulheres.',
     synonyms:
       'Nandrolone phenpropionate\nnandrolone phenylpropionate\n62-90-8\nNortestosterone phenylpropionate\nNadrolone phenylpropionate',
   },
@@ -1228,7 +1228,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'MISC',
     description__1:
-      '1-Testosterone, is a synthetic anabolic–androgenic steroid (AAS) and a 5α-reduced derivative of boldenone (Δ1-testosteroneIt was legally sold online in the United States until 2005, when it was reclassified as a Schedule III drug.',
+      '1-Testosterona é um esteroide anabólico-androgênico (AAS) sintético e um derivado 5α-reduzido de boldenona (Δ1-testosterona). Foi vendido legalmente online nos Estados Unidos até 2005, quando foi reclassificado como droga da Lista III.',
     synonyms:
       '17-Hydroxyandrost-1-en-3-one204660-15-11-Dehydro AndrostanoloneBCP29300AKOS015961063',
   },
@@ -1239,7 +1239,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'MISC',
     description__1:
-      'Boldenone undecylenate, or boldenone undecenoate, is an androgen and anabolic steroid (AAS) medication which is used in veterinary medicine, mainly in horses.It was formerly used in humans as well.',
+      'Undecilenato de boldenona, ou undecanoato de boldenona, é um medicamento androgênico e esteroide anabolizante (AAS) usado em medicina veterinária, principalmente em cavalos. Anteriormente também era usado em humanos.',
     synonyms:
       'Boldenone undecylenate\n13103-34-9\nParenabol\n17b-[(1-Oxo-10- undecenyl)oxy]-androsta-1,4-dien-3-one\nVebonol',
   },
@@ -1250,7 +1250,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'MISC',
     description__1:
-      'Drostanolone propionate, or dromostanolone propionate, is an androgen and anabolic steroid (AAS) medication which was used to treat breast cancer in women but is now no longer marketed',
+      'Propionato de drostanolona, ou propionato de dromostanolona, é um medicamento androgênico e esteroide anabolizante (AAS) que foi usado para tratar câncer de mama em mulheres, mas agora não é mais comercializado',
     synonyms:
       'drostanolone propionate\nDROMOSTANOLONE PROPIONATE\n521-12-0\nEmdisterone\nBlackburn Compound',
   },
@@ -1261,7 +1261,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'MISC',
     description__1:
-      'is a synthetic derivative of dihydrotestosterone, producing an anabolic effect and promoting protein synthesis as well as creating positive nitrogen balance in humans. Since it is a derivative of dihydrotestosterone',
+      'é um derivado sintético de di-hidrotestosterona, produzindo um efeito anabólico e promovendo síntese de proteínas, bem como criando balanço de nitrogênio positivo em humanos. Como é um derivado de di-hidrotestosterona',
     synonyms:
       'Drostanolone Enanthate\n13425-31-5\nSCHEMBL17433518\nZINC39370067\nACN-036714',
   },
@@ -1272,7 +1272,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'MISC',
     description__1:
-      'Trestolone acetate is a synthetic and injected anabolic–androgenic steroid (AAS) and a derivative of nandrolone (19-nortestosterone) which was never marketed.',
+      'Acetato de trestolona é um esteroide anabólico-androgênico (AAS) sintético e injetável e um derivado de nandrolona (19-nortestosterona) que nunca foi comercializado.',
     synonyms:
       'TRESTOLONE ACETATE\nOrgasteron acetate\nUNII-52XDF4N1XL\nTrestolone acetate [USAN]\n52XDF4N1XL',
   },
@@ -1283,7 +1283,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'MISC',
     description__1:
-      'Metenolone enanthate, or methenolone enanthate, is an androgen and anabolic steroid (AAS) medication which is used mainly in the treatment of anemia due to bone marrow failure.',
+      'Enantato de metenolona, ou enantato de metenolona, é um medicamento androgênico e esteroide anabolizante (AAS) que é usado principalmente no tratamento de anemia devido à falência da medula óssea.',
     synonyms:
       'METHENOLONE ENANTHATE\n303-42-4\nmetenolone enanthate\nPrimobolan depot\nUNII-0SPD480WFH',
   },
@@ -1294,7 +1294,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'MISC',
     description__1:
-      'Methasterone is an anabolic steroid that increases serum levels of testosterone and dihydrotestosterone but also causes damage to the heart, testis, and adrenal gland in rats. This product is intended for forensic and research applications',
+      'Metasterona é um esteroide anabolizante que aumenta os níveis séricos de testosterona e di-hidrotestosterona, mas também causa danos ao coração, testículos e glândula adrenal em ratos. Este produto é destinado a aplicações forenses e de pesquisa',
     synonyms:
       'Methasterone\n\nSuperdrol\n\n3381-88-2\n\n2,17-Dimethyldihydrote stosterone\n\nUNII-GH88DY98MR',
   },
@@ -1305,7 +1305,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'SUSPENSIONS',
     description__1:
-      'is an androgen and anabolic steroid (AAS) medication which is used primarily in the treatment of anemia.It is also used to treat osteoporosis, HIV/AIDS wasting syndrome, and to promote weight gain and muscle growth in certain situations',
+      'é um medicamento androgênico e esteroide anabolizante (AAS) usado principalmente no tratamento de anemia. Também é usado para tratar osteoporose, síndrome de emagrecimento de HIV/AIDS e para promover ganho de peso e crescimento muscular em certas situações',
     synonyms: 'oxymetholone\n434-07-1\nNastenon\nProtanabol\nAnadrol',
   },
   {
@@ -1315,7 +1315,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'SUSPENSIONS',
     description__1:
-      'is an androgen and anabolic steroid (AAS) medication which is used to help promote weight gain in various situations, to help offset protein catabolism caused by long-term corticosteroid therapy, to support recovery from severe burns, to treat bone pain associated with osteoporosis, to aid in the development of girls with Turner syndrome, and for other indications',
+      'é um medicamento androgênico e esteroide anabolizante (AAS) usado para ajudar a promover ganho de peso em várias situações, para ajudar a compensar o catabolismo proteico causado pela terapia com corticosteroides de longo prazo, para apoiar a recuperação de queimaduras graves, para tratar dor óssea associada à osteoporose, para auxiliar no desenvolvimento de meninas com síndrome de Turner e para outras indicações',
     synonyms: 'OXANDROLONE\nOxandrin\nVasorome\nLonavar\nProtivar',
   },
   {
@@ -1325,7 +1325,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'SUSPENSIONS',
     description__1:
-      'Testosterone is the primary sex hormone and anabolic steroid in males. In male humans, testosterone plays a key role in the development of male reproductive tissues such as testes and prostate, as well as promoting secondary sexual characteristics such as increased muscle and bone mass, and the growth of body hair. In addition, testosterone is involved in health and well-being, and the prevention of osteoporosis. Insufficient levels of testosterone in men may lead to abnormalities including frailty and bone loss.',
+      'Testosterona é o principal hormônio sexual e esteroide anabolizante em homens. Em humanos do sexo masculino, a testosterona desempenha um papel fundamental no desenvolvimento de tecidos reprodutivos masculinos, como testículos e próstata, bem como na promoção de características sexuais secundárias, como aumento da massa muscular e óssea e crescimento de pelos corporais. Além disso, a testosterona está envolvida na saúde e bem-estar e na prevenção de osteoporose. Níveis insuficientes de testosterona em homens podem levar a anormalidades, incluindo fragilidade e perda óssea.',
     synonyms: 'testosterone\n58-22-0\nTestosteron\nAndroderm\nTestoderm',
   },
   {
@@ -1335,7 +1335,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'SUSPENSIONS',
     description__1:
-      'Trenbolone is an androgen and anabolic steroid (AAS) of the nandrolone group which itself was never marketed. Trenbolone acetate, sold under brand names such as Finajet and Finaplix among others, is an androgen and anabolic steroid (AAS) medication which is used in veterinary medicine, specifically to increase the profitability of livestock by promoting muscle growth in cattle.',
+      'Trembolona é um androgênio e esteroide anabolizante (AAS) do grupo nandrolona que nunca foi comercializado. Acetato de trembolona, vendido sob marcas como Finajet e Finaplix entre outras, é um medicamento androgênico e esteroide anabolizante (AAS) usado em medicina veterinária, especificamente para aumentar a lucratividade do gado promovendo crescimento muscular em bovinos.',
     synonyms:
       'Trenbolone\n10161-33-8\n17beta-Trenbolone\nTrienbolone\n17-beta-Trenbolone',
   },
@@ -1346,7 +1346,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'SUSPENSIONS',
     description__1:
-      'is an androgen and anabolic steroid (AAS) medication derived from dihydrotestosterone (DHT). It is used to treat hereditary angioedema.[',
+      'é um medicamento androgênico e esteroide anabolizante (AAS) derivado de di-hidrotestosterona (DHT). É usado para tratar angioedema hereditário.',
     synonyms: 'stanozolol\nWinstrol\nAndrostanazole\n10418-03-8\nAndrostanazol',
   },
   {
@@ -1356,7 +1356,7 @@ let data = [
     subcategory: 'ampoules',
     description: 'DILUENTS',
     description__1:
-      'Bacteriostatic Water is water of extra high quality without contamination. Benzyl Alcohol 0.9% is added as preservative. Before use other substances generally must be added to make the solution more or less isotonic',
+      'Água Bacteriostática é água de qualidade extra alta sem contaminação. Álcool benzílico 0,9% é adicionado como conservante. Antes do uso, outras substâncias geralmente devem ser adicionadas para tornar a solução mais ou menos isotônica',
     synonyms:
       '[OH2]acqua\nagua\naqua\nBOUND WATER\ndihydridooxygen\ndihydrogen oxide\neau Français\nH2O\nH2O\nHOH\nhydrogen hydroxide\nWasser\nPurified water\nDistilled water\nwater',
   },
@@ -1367,7 +1367,7 @@ let data = [
     subcategory: 'vials',
     description: 'TESTOSTERONES SERIES',
     description__1:
-      'Testosterone enanthate, is an androgen and anabolic steroid (AAS) medication which is used mainly in the treatment of low testosterone levels in men. It is also used in hormone therapy for transgender men.',
+      'Enantato de testosterona é um medicamento androgênico e esteroide anabolizante (AAS) que é usado principalmente no tratamento de baixos níveis de testosterona em homens. Também é usado em terapia hormonal para homens transgêneros.',
     synonyms:
       'testosterone enanthate\n315-37-7\nTestosterone heptanoate\nTestosterone enantate\nTestosterone heptylate',
   },
@@ -1378,7 +1378,7 @@ let data = [
     subcategory: 'vials',
     description: 'TESTOSTERONES SERIES',
     description__1:
-      'Testosterone cypionate, is an androgen and anabolic steroid (AAS) medication which is used mainly in the treatment of low testosterone levels in men. It is also used in hormone therapy for transgender men.',
+      'Cipionato de testosterona é um medicamento androgênico e esteroide anabolizante (AAS) que é usado principalmente no tratamento de baixos níveis de testosterona em homens. Também é usado em terapia hormonal para homens transgêneros.',
     synonyms:
       'TESTOSTERONE CYPIONATE\n58-20-8\nTestosterone cyclopentylpropionate\nTestosterone cyclopentanepropionate\nTestosterone 17beta-cypionate',
   },
@@ -1389,7 +1389,7 @@ let data = [
     subcategory: 'vials',
     description: 'TESTOSTERONES SERIES',
     description__1:
-      'Testosterone undecanoate, is an androgen and anabolic steroid (AAS) medication which is used mainly in the treatment of low testosterone levels in men. which includes hormone therapy for transgender men.',
+      'Undecanoato de testosterona é um medicamento androgênico e esteroide anabolizante (AAS) que é usado principalmente no tratamento de baixos níveis de testosterona em homens, o que inclui terapia hormonal para homens transgêneros.',
     synonyms:
       'Testosterone undecanoate\n5949-44-0\nAndriol\nTestosterone undecylate\nUndestor',
   },
@@ -1400,7 +1400,7 @@ let data = [
     subcategory: 'vials',
     description: 'TESTOSTERONES SERIES',
     description__1:
-      'is an androgen and anabolic steroid medication and a testosterone ester which has been used as a component of mixed testosterone ester preparations.',
+      'é um medicamento androgênico e esteroide anabolizante e um éster de testosterona que tem sido usado como componente de preparações mistas de ésteres de testosterona.',
     synonyms:
       'Testosterone isocaproate\n15262-86-9\nTestosterone isocapronate\nUNII-X8ST05GYDM\nCHEBI:35001',
   },
@@ -1411,7 +1411,7 @@ let data = [
     subcategory: 'vials',
     description: 'TESTOSTERONES SERIES',
     description__1:
-      'Testosterone propionate, is an androgen and anabolic steroid (AAS) medication which is used mainly in the treatment of low testosterone levels in men. It has also been used to treat breast cancer in women.',
+      'Propionato de testosterona é um medicamento androgênico e esteroide anabolizante (AAS) que é usado principalmente no tratamento de baixos níveis de testosterona em homens. Também foi usado para tratar câncer de mama em mulheres.',
     synonyms:
       'testosterone propionate\n57-85-2\nAgovirin\nAndrolon\nAndroteston',
   },
@@ -1422,7 +1422,7 @@ let data = [
     subcategory: 'vials',
     description: 'TRENBOLONES SERIES',
     description__1:
-      'Trenbolone acetate, is an androgen and anabolic steroid (AAS) medication which is used in veterinary medicine, specifically to increase the profitability of livestock by promoting muscle growth in cattle.',
+      'Acetato de trembolona é um medicamento androgênico e esteroide anabolizante (AAS) usado em medicina veterinária, especificamente para aumentar a lucratividade do gado promovendo crescimento muscular em bovinos.',
     synonyms:
       'Trenbolone acetate\n10161-34-9\nFinaplix\nTrienbolone acetate\nTrenbolone 17-acetate',
   },
@@ -1433,7 +1433,7 @@ let data = [
     subcategory: 'vials',
     description: 'TRENBOLONES SERIES',
     description__1:
-      'Trenbolone enanthate, is a synthetic and injected anabolic–androgenic steroid (AAS) and a derivative of nandrolone which was never marketed.It is the C17β enanthate ester and a long-acting prodrug of trenbolone. Trenbolone enanthate was never approved for medical or veterinary use but is used in scientific research',
+      'Enantato de trembolona é um esteroide anabólico-androgênico (AAS) sintético e injetável e um derivado de nandrolona que nunca foi comercializado. É o éster enantato C17β e um pró-fármaco de ação prolongada de trembolona. O enantato de trembolona nunca foi aprovado para uso médico ou veterinário, mas é usado em pesquisa científica',
     synonyms:
       'Trenbolone Enanthate\nUNII-FF02TM6THR\nFF02TM6THR\n1629618-98-9\nTrenbolone Enantate',
   },
@@ -1444,7 +1444,7 @@ let data = [
     subcategory: 'vials',
     description: 'TRENBOLONES SERIES',
     description__1:
-      'Trenbolone hexahydrobenzylcarbonate, or trenbolone cyclohexylmethylcarbonate, is a synthetic, injected anabolic–androgenic steroid (AAS) of the nandrolone group and an androgen ester, which was marketed in France for medical use in humans but has since been discontinued.',
+      'Hexaidrobenzilcarbonato de trembolona, ou cicloexilmetilcarbonato de trembolona, é um esteroide anabólico-androgênico (AAS) sintético e injetável do grupo nandrolona e um éster de androgênio, que foi comercializado na França para uso médico em humanos, mas foi descontinuado desde então.',
     synonyms:
       'Trenbolone cyclohexylmethylcarbonate\n\n23454-33-3\n \nUNII-BNJ7Y3JFF2\n \nTrenbolone Hexahydrobenzyl Carbonate\n \nBNJ7Y3JFF2',
   },
@@ -1465,7 +1465,7 @@ let data = [
     subcategory: 'vials',
     description: 'NANDROLONE SERIES',
     description__1:
-      'Nandrolone decanoate, is an androgen and anabolic steroid (AAS) medication which is used primarily in the treatment of anaemias and wasting syndromes, as well as osteoporosis in menopausal women',
+      'Decanoato de nandrolona é um medicamento androgênico e esteroide anabolizante (AAS) que é usado principalmente no tratamento de anemias e síndromes de emagrecimento, bem como osteoporose em mulheres na menopausa',
     synonyms:
       'NANDROLONE DECANOATE\n360-70-3\nRetabolil\n19-Nortestosterone decanoate\nNortestosterone decanoate',
   },
@@ -1485,7 +1485,7 @@ let data = [
     subcategory: 'vials',
     description: 'NANDROLONE SERIES',
     description__1:
-      'Nandrolone phenylpropionate (NPP), or nandrolone phenpropionate, is an androgen and anabolic steroid (AAS) medication which has been used primarily in the treatment of breast cancer and osteoporosis in women.',
+      'Fenilpropionato de nandrolona (NPP), ou fenpropionato de nandrolona, é um medicamento androgênico e esteroide anabolizante (AAS) que tem sido usado principalmente no tratamento de câncer de mama e osteoporose em mulheres.',
     synonyms:
       'Nandrolone phenpropionate\nnandrolone phenylpropionate\n \n62-90-8\n \nNortestosterone phenylpropionate\n \nNadrolone phenylpropionate',
   },
@@ -1496,7 +1496,7 @@ let data = [
     subcategory: 'vials',
     description: 'OTHER',
     description__1:
-      '1-Testosterone, is a synthetic anabolic–androgenic steroid (AAS) and a 5α-reduced derivative of boldenone (Δ1-testosteroneIt was legally sold online in the United States until 2005, when it was reclassified as a Schedule III drug.',
+      '1-Testosterona é um esteroide anabólico-androgênico (AAS) sintético e um derivado 5α-reduzido de boldenona (Δ1-testosterona). Foi vendido legalmente online nos Estados Unidos até 2005, quando foi reclassificado como droga da Lista III.',
     synonyms:
       '17-Hydroxyandrost-1-en-3-one\n204660-15-1\n1-Dehydro Androstanolone\nBCP29300\nAKOS015961063',
   },
@@ -1507,7 +1507,7 @@ let data = [
     subcategory: 'vials',
     description: 'OTHER',
     description__1:
-      'Boldenone undecylenate, or boldenone undecenoate, is an androgen and anabolic steroid (AAS) medication which is used in veterinary medicine, mainly in horses.It was formerly used in humans as well.',
+      'Undecilenato de boldenona, ou undecanoato de boldenona, é um medicamento androgênico e esteroide anabolizante (AAS) usado em medicina veterinária, principalmente em cavalos. Anteriormente também era usado em humanos.',
     synonyms:
       'Boldenone undecylenate\n13103-34-9\nParenabol\n17b-[(1-Oxo-10-undecenyl)oxy]-androsta-1,4-dien-3-one\nVebonol',
   },
@@ -1518,7 +1518,7 @@ let data = [
     subcategory: 'vials',
     description: 'OTHER',
     description__1:
-      'Drostanolone propionate, or dromostanolone propionate, is an androgen and anabolic steroid (AAS) medication which was used to treat breast cancer in women but is now no longer marketed',
+      'Propionato de drostanolona, ou propionato de dromostanolona, é um medicamento androgênico e esteroide anabolizante (AAS) que foi usado para tratar câncer de mama em mulheres, mas agora não é mais comercializado',
     synonyms:
       'drostanolone propionate\nDROMOSTANOLONE PROPIONATE\n521-12-0\nEmdisterone\nBlackburn Compound',
   },
@@ -1529,7 +1529,7 @@ let data = [
     subcategory: 'vials',
     description: 'OTHER',
     description__1:
-      'is a synthetic derivative of dihydrotestosterone, producing an anabolic effect and promoting protein synthesis as well as creating positive nitrogen balance in humans. Since it is a derivative of dihydrotestosterone',
+      'é um derivado sintético de di-hidrotestosterona, produzindo um efeito anabólico e promovendo síntese de proteínas, bem como criando balanço de nitrogênio positivo em humanos. Como é um derivado de di-hidrotestosterona',
     synonyms:
       'Drostanolone Enanthate\n13425-31-5\nSCHEMBL17433518\nZINC39370067\nACN-036714',
   },
@@ -1540,7 +1540,7 @@ let data = [
     subcategory: 'vials',
     description: 'OTHER',
     description__1:
-      'Trestolone acetate is a synthetic and injected anabolic–androgenic steroid (AAS) and a derivative of nandrolone (19-nortestosterone) which was never marketed.',
+      'Acetato de trestolona é um esteroide anabólico-androgênico (AAS) sintético e injetável e um derivado de nandrolona (19-nortestosterona) que nunca foi comercializado.',
     synonyms:
       'TRESTOLONE ACETATE\nOrgasteron acetate\nUNII-52XDF4N1XL\nTrestolone acetate [USAN]\n52XDF4N1XL',
   },
@@ -1551,7 +1551,7 @@ let data = [
     subcategory: 'vials',
     description: 'OTHER',
     description__1:
-      'Metenolone enanthate, or methenolone enanthate, is an androgen and anabolic steroid (AAS) medication which is used mainly in the treatment of anemia due to bone marrow failure.',
+      'Enantato de metenolona, ou enantato de metenolona, é um medicamento androgênico e esteroide anabolizante (AAS) que é usado principalmente no tratamento de anemia devido à falência da medula óssea.',
     synonyms:
       'METHENOLONE ENANTHATE\n303-42-4\nmetenolone enanthate\nPrimobolan depot\nUNII-0SPD480WFH',
   },
@@ -1562,7 +1562,7 @@ let data = [
     subcategory: 'vials',
     description: 'OTHER',
     description__1:
-      'Methasterone is an anabolic steroid that increases serum levels of testosterone and dihydrotestosterone but also causes damage to the heart, testis, and adrenal gland in rats. This product is intended for forensic and research applications',
+      'Metasterona é um esteroide anabolizante que aumenta os níveis séricos de testosterona e di-hidrotestosterona, mas também causa danos ao coração, testículos e glândula adrenal em ratos. Este produto é destinado a aplicações forenses e de pesquisa',
     synonyms:
       'Methasterone\nSuperdrol\n3381-88-2\n2,17-Dimethyldihydrotestosterone\nUNII-GH88DY98MR',
   },
@@ -1573,7 +1573,7 @@ let data = [
     subcategory: 'vials',
     description: 'SUSPENSIONS',
     description__1:
-      'is an androgen and anabolic steroid (AAS) medication which is used primarily in the treatment of anemia.It is also used to treat osteoporosis, HIV/AIDS wasting syndrome, and to promote weight gain and muscle growth in certain situations',
+      'é um medicamento androgênico e esteroide anabolizante (AAS) usado principalmente no tratamento de anemia. Também é usado para tratar osteoporose, síndrome de emagrecimento de HIV/AIDS e para promover ganho de peso e crescimento muscular em certas situações',
     synonyms: 'oxymetholone\n434-07-1\nNastenon\nProtanabol\nAnadrol',
   },
   {
@@ -1583,7 +1583,7 @@ let data = [
     subcategory: 'vials',
     description: 'SUSPENSIONS',
     description__1:
-      'is an androgen and anabolic steroid (AAS) medication which is used to help promote weight gain in various situations, to help offset protein catabolism caused by long-term corticosteroid therapy, to support recovery from severe burns, to treat bone pain associated with osteoporosis, to aid in the development of girls with Turner syndrome, and for other indications',
+      'é um medicamento androgênico e esteroide anabolizante (AAS) usado para ajudar a promover ganho de peso em várias situações, para ajudar a compensar o catabolismo proteico causado pela terapia com corticosteroides de longo prazo, para apoiar a recuperação de queimaduras graves, para tratar dor óssea associada à osteoporose, para auxiliar no desenvolvimento de meninas com síndrome de Turner e para outras indicações',
     synonyms: 'OXANDROLONE\nOxandrin\nVasorome\nLonavar\nProtivar',
   },
   {
@@ -1593,7 +1593,7 @@ let data = [
     subcategory: 'vials',
     description: 'SUSPENSIONS',
     description__1:
-      'Testosterone is the primary sex hormone and anabolic steroid in males. In male humans, testosterone plays a key role in the development of male reproductive tissues such as testes and prostate, as well as promoting secondary sexual characteristics such as increased muscle and bone mass, and the growth of body hair. In addition, testosterone is involved in health and well-being, and the prevention of osteoporosis. Insufficient levels of testosterone in men may lead to abnormalities including frailty and bone loss.',
+      'Testosterona é o principal hormônio sexual e esteroide anabolizante em homens. Em humanos do sexo masculino, a testosterona desempenha um papel fundamental no desenvolvimento de tecidos reprodutivos masculinos, como testículos e próstata, bem como na promoção de características sexuais secundárias, como aumento da massa muscular e óssea e crescimento de pelos corporais. Além disso, a testosterona está envolvida na saúde e bem-estar e na prevenção de osteoporose. Níveis insuficientes de testosterona em homens podem levar a anormalidades, incluindo fragilidade e perda óssea.',
     synonyms: 'testosterone\n58-22-0\nTestosteron\nAndroderm\nTestoderm',
   },
   {
@@ -1603,7 +1603,7 @@ let data = [
     subcategory: 'vials',
     description: 'SUSPENSIONS',
     description__1:
-      'Testosterone is the primary sex hormone and anabolic steroid in males. In male humans, testosterone plays a key role in the development of male reproductive tissues such as testes and prostate, as well as promoting secondary sexual characteristics such as increased muscle and bone mass, and the growth of body hair. In addition, testosterone is involved in health and well-being, and the prevention of osteoporosis. Insufficient levels of testosterone in men may lead to abnormalities including frailty and bone loss.',
+      'Testosterona é o principal hormônio sexual e esteroide anabolizante em homens. Em humanos do sexo masculino, a testosterona desempenha um papel fundamental no desenvolvimento de tecidos reprodutivos masculinos, como testículos e próstata, bem como na promoção de características sexuais secundárias, como aumento da massa muscular e óssea e crescimento de pelos corporais. Além disso, a testosterona está envolvida na saúde e bem-estar e na prevenção de osteoporose. Níveis insuficientes de testosterona em homens podem levar a anormalidades, incluindo fragilidade e perda óssea.',
     synonyms: 'testosterone\n58-22-0\nTestosteron\nAndroderm\nTestoderm',
   },
   {
@@ -1613,7 +1613,7 @@ let data = [
     subcategory: 'vials',
     description: 'SUSPENSIONS',
     description__1:
-      'is an androgen and anabolic steroid (AAS) medication which is mostly no longer used. It is also used non-medically for physique- and performance-enhancing purposes.',
+      'é um medicamento androgênico e esteroide anabolizante (AAS) que em sua maioria não é mais usado. Também é usado de forma não médica para fins de melhora de físico e desempenho.',
     synonyms:
       'METHANDROSTENOLONE\nMetandienone\nMethandienone\n72-63-9\nDianabol',
   },
@@ -1624,7 +1624,7 @@ let data = [
     subcategory: 'vials',
     description: 'SUSPENSIONS',
     description__1:
-      'is an androgen and anabolic steroid (AAS) medication which is mostly no longer used. It is also used non-medically for physique- and performance-enhancing purposes.',
+      'é um medicamento androgênico e esteroide anabolizante (AAS) que em sua maioria não é mais usado. Também é usado de forma não médica para fins de melhora de físico e desempenho.',
     synonyms:
       'METHANDROSTENOLONE\nMetandienone\nMethandienone\n72-63-9\nDianabol',
   },
@@ -1635,7 +1635,7 @@ let data = [
     subcategory: 'vials',
     description: 'SUSPENSIONS',
     description__1:
-      'Trenbolone is an androgen and anabolic steroid (AAS) of the nandrolone group which itself was never marketed. Trenbolone acetate, sold under brand names such as Finajet and Finaplix among others, is an androgen and anabolic steroid (AAS) medication which is used in veterinary medicine, specifically to increase the profitability of livestock by promoting muscle growth in cattle.',
+      'Trembolona é um androgênio e esteroide anabolizante (AAS) do grupo nandrolona que nunca foi comercializado. Acetato de trembolona, vendido sob marcas como Finajet e Finaplix entre outras, é um medicamento androgênico e esteroide anabolizante (AAS) usado em medicina veterinária, especificamente para aumentar a lucratividade do gado promovendo crescimento muscular em bovinos.',
     synonyms:
       'Trenbolone\n10161-33-8\n17beta-Trenbolone\nTrienbolone\n17-beta-Trenbolone',
   },
@@ -1646,7 +1646,7 @@ let data = [
     subcategory: 'vials',
     description: 'SUSPENSIONS',
     description__1:
-      'is a peroxisome proliferator-activator receptor-delta agonist for the potential treatment of dyslipidemia. Cardarine has been investigated for the treatment of Obesity, Lipid Disorders, and Cardiovascular Disease.',
+      'é um agonista do receptor ativador de proliferador de peroxissoma-delta para o tratamento potencial de dislipidemia. Cardarine tem sido investigado para o tratamento de Obesidade, Distúrbios Lipídicos e Doença Cardiovascular.',
     synonyms: '317318-70-0\nGW501516\nGW 501516\nEndurobol\nGW-501516',
   },
   {
@@ -1656,7 +1656,7 @@ let data = [
     subcategory: 'vials',
     description: 'SUSPENSIONS',
     description__1:
-      'Ligandrol (VK5211, LGD-4033)[2] is a novel nonsteroidal oral selective androgen receptor modulator (SARM) for treatment of conditions such as muscle wasting and osteoporosis',
+      'Ligandrol (VK5211, LGD-4033) é um modulador seletivo de receptor de androgênio oral não esteroidal (SARM) inovador para tratamento de condições como perda muscular e osteoporose',
     synonyms:
       '1165910-22-4\nLGD-4033\nLigandrol\nUNII-1EJT54415A\n4-((R)-2-((R)-2,2,2-Trifluoro-1-hydroxyethyl)pyrrolidin-1-yl)-2-(trifluoromethyl)benzonitrile',
   },
@@ -1667,7 +1667,7 @@ let data = [
     subcategory: 'vials',
     description: 'SUSPENSIONS',
     description__1:
-      'MK 677 is a potent, long-acting, orally-active, selective, and non-peptide agonist of the ghrelin receptor and a growth hormone secretagogue, mimicking the growth hormone (GH)-stimulating action of the endogenous hormone ghrelin. It has been shown to increase the secretion of several hormones including GH and insulin-like growth factor 1 (IGF-1) and produces sustained increases in the plasma levels of these hormones without affecting cortisol levels.',
+      'MK 677 é um agonista potente, de ação prolongada, oralmente ativo, seletivo e não peptídico do receptor de grelina e um secretagogo do hormônio de crescimento, imitando a ação estimulante do hormônio de crescimento (GH) do hormônio endógeno grelina. Foi demonstrado que aumenta a secreção de vários hormônios, incluindo GH e fator de crescimento semelhante à insulina 1 (IGF-1) e produz aumentos sustentados nos níveis plasmáticos desses hormônios sem afetar os níveis de cortisol.',
     synonyms:
       'MK-677, (HCl salt)\nSCHEMBL4927761\nCHEMBL3392643\nBCP27673\nDB-015061',
   },
@@ -1678,7 +1678,7 @@ let data = [
     subcategory: 'vials',
     description: 'SUSPENSIONS',
     description__1:
-      'Oral Turinabol is  known as 4-chloro-17β-hydroxy17α-methylandrosta-1,4-dien-3-one, is an anabolic–androgenic steroid (AAS).',
+      'Turinabol oral é conhecido como 4-cloro-17β-hidroxi17α-metilandrosta-1,4-dien-3-ona, é um esteroide anabólico-androgênico (AAS).',
     synonyms:
       '4-Chlorodehydrome thyltestosterone\n2446-23-3\nOral turinabol\n4-Chloromethandienone\nOral-Turinabol',
   },
@@ -1689,7 +1689,7 @@ let data = [
     subcategory: 'vials',
     description: 'SUSPENSIONS',
     description__1:
-      'RAD140 is an investigational selective androgen receptor modulator (SARM) developed as a future substitute of exogenous Testosterone replacement therapy (TRT). Some of the benefits under investigation are for the treatment of conditions such as muscle wasting and skeleton wasting (Osteoporosis), caused by breast cancer.',
+      'RAD140 é um modulador seletivo de receptor de androgênio (SARM) investigacional desenvolvido como substituto futuro da terapia de reposição de testosterona exógena (TRT). Alguns dos benefícios sob investigação são para o tratamento de condições como perda muscular e perda esquelética (Osteoporose), causada por câncer de mama.',
     synonyms: 'RAD1401182367-47-0RAD-140UNII-4O87Q44KNC4O87Q44KNC',
   },
   {
@@ -1699,7 +1699,7 @@ let data = [
     subcategory: 'vials',
     description: 'SUSPENSIONS',
     description__1:
-      'Andarine, also known as S-4, S-40503, or 8, is a SARM developed with the aim of treating osteoporosis and muscle wasting.',
+      'Andarine, também conhecida como S-4, S-40503 ou 8, é um SARM desenvolvido com o objetivo de tratar osteoporose e perda muscular.',
     synonyms:
       'Andarine\n\n401900-40-1\n\nGTX-007\n\nAndarine (GTX-007)\n\nUNII-7UT2HAH49H\n\nGTX007\n\n(2S)-3-(4-acetamidophenoxy)-  2-hydroxy-2-methyl-N-[4-nitro-3-(trifluoromethyl) phenyl]propanamide\n\n7UT2HAH49H\n\nS-3-(4-Acetylamino-phenoxy)-2-hydroxy-2-methyl-n-(4-nitro-3-trifluoromethyl-phenyl)-propionamide\n\nCHEMBL125236',
   },
@@ -1710,7 +1710,7 @@ let data = [
     subcategory: 'vials',
     description: 'SUSPENSIONS',
     description__1:
-      'Winstrol is an androgen and anabolic steroid (AAS) medication derived from dihydrotestosterone (DHT). It is used to treat hereditary angioedema.[',
+      'Winstrol é um medicamento androgênico e esteroide anabolizante (AAS) derivado de di-hidrotestosterona (DHT). É usado para tratar angioedema hereditário.',
     synonyms: 'stanozolol\nWinstrol\nAndrostanazole\n10418-03-8\nAndrostanazol',
   },
   {
@@ -1720,7 +1720,7 @@ let data = [
     subcategory: 'vials',
     description: 'SUSPENSIONS',
     description__1:
-      'Winstrol is an androgen and anabolic steroid (AAS) medication derived from dihydrotestosterone (DHT). It is used to treat hereditary angioedema.[',
+      'Winstrol é um medicamento androgênico e esteroide anabolizante (AAS) derivado de di-hidrotestosterona (DHT). É usado para tratar angioedema hereditário.',
     synonyms: 'stanozolol\nWinstrol\nAndrostanazole\n10418-03-8\nAndrostanazol',
   },
   {
@@ -1730,7 +1730,7 @@ let data = [
     subcategory: 'vials',
     description: 'SUSPENSIONS',
     description__1:
-      'YK-11 is a synthetic steroidal selective androgen receptor modulator (SARM). It is a gene-selective partial agonist of the androgen receptor (AR) and does not induce the physical interaction between the NTD/AF1 and LBD/AF2 (known as the N/C interaction), which is required for full transactivation of the AR.The drug has anabolic activity in vitro in C2C12 myoblasts and shows greater potency than dihydrotestosterone (DHT) in this regard',
+      'YK-11 é um modulador seletivo de receptor de androgênio (SARM) esteroidal sintético. É um agonista parcial gene-seletivo do receptor de androgênio (AR) e não induz a interação física entre NTD/AF1 e LBD/AF2 (conhecida como interação N/C), que é necessária para transativação completa do AR. O medicamento tem atividade anabólica in vitro em mioblastos C2C12 e mostra maior potência do que di-hidrotestosterona (DHT) a este respeito',
     synonyms: 'YK-11\nYK11\n1370003-76-1\nYK11 cpd\nEX-A727',
   },
   {
@@ -1740,7 +1740,7 @@ let data = [
     subcategory: 'vials',
     description: 'DILUENTS',
     description__1:
-      'Bacteriostatic Water is water of extra high quality without contamination. Benzyl Alcohol 0.9% is added as preservative. Before use other substances generally must be added to make the solution more or less isotonic',
+      'Água Bacteriostática é água de qualidade extra alta sem contaminação. Álcool benzílico 0,9% é adicionado como conservante. Antes do uso, outras substâncias geralmente devem ser adicionadas para tornar a solução mais ou menos isotônica',
     synonyms:
       '[OH2]acqua\nagua\naqua\nBOUND WATER\ndihydridooxygen\ndihydrogen oxide\neau Français\nH2O\nH2O\nHOH\nhydrogen hydroxide\nWasser\nPurified water\nDistilled water\nwater',
   },
@@ -1751,7 +1751,7 @@ let data = [
     subcategory: 'vials',
     description: 'DILUENTS',
     description__1:
-      'Bacteriostatic Water is water of extra high quality without contamination. Benzyl Alcohol 0.9% is added as preservative. Before use other substances generally must be added to make the solution more or less isotonic',
+      'Água Bacteriostática é água de qualidade extra alta sem contaminação. Álcool benzílico 0,9% é adicionado como conservante. Antes do uso, outras substâncias geralmente devem ser adicionadas para tornar a solução mais ou menos isotônica',
     synonyms:
       '[OH2] acqua  aguaaquaBOUND WATER       dihydridooxygen        dihydrogen oxide       eau Français   H2O   H2O   HOH   hydrogen hydroxide   Wasser           Purified waterDistilled waterwater',
   },
@@ -1762,7 +1762,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Is a drug developed by Acadia Pharmaceuticals which acts as a selective androgen receptor modulator (SARM). Chemically it possesses endo-exo isomerism, with the endo form being the active form. It acts as a partial agonist for the androgen receptor with a Ki of 5nM, and no significant affinity for any other receptors tested. In animal studies it produced a maximal effect of around 66% of the anabolic action of testosterone, but only around 27% of its potency as an androgen',
+      'É um medicamento desenvolvido pela Acadia Pharmaceuticals que atua como modulador seletivo do receptor de androgênio (SARM). Quimicamente possui isomeria endo-exo, sendo a forma endo a forma ativa. Atua como agonista parcial para o receptor de androgênio com um Ki de 5nM e sem afinidade significativa para quaisquer outros receptores testados. Em estudos com animais, produziu um efeito máximo de cerca de 66% da ação anabólica da testosterona, mas apenas cerca de 27% de sua potência como androgênio',
     synonyms:
       'AC262;AC-262536;AC-262,356;AC-262536 powder;4-(3-endo-Hydroxy-8-azabicyclo[3.2.1]oct-8-yl)naphthalene-1-carbonitrile;4-[(3-endo)-3-Hydroxy-8-azabicyclo[3.2.1]oct-8-yl]naphthalene-1-carbonitrile',
   },
@@ -1773,7 +1773,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'AICAR is a cell-permeable adenosine analog that is a selective activator of AMP-activated protein kinase (AMPK) in adipocytes and hepatocytes. The AMPK is a metabolic regulator that inhibits anabolic processes and is active when energy availability is reduced. AICAR is reported to promote osteogenic differentiation of mesenchymal stem cells in vitro and astroglial differentiation in neural stem cells',
+      'AICAR é um análogo de adenosina permeável à célula que é um ativador seletivo da proteína quinase ativada por AMP (AMPK) em adipócitos e hepatócitos. A AMPK é um regulador metabólico que inibe processos anabólicos e está ativa quando a disponibilidade de energia é reduzida. O AICAR é relatado para promover diferenciação osteogênica de células-tronco mesenquimais in vitro e diferenciação astroglial em células-tronco neurais',
     synonyms:
       'Acadesine, AICA ribonucleoside, aminoimidazole carboxamide ribonucleoside, ARA100,1-ribosyl-4-carboxamido-5-aminoimidazole',
   },
@@ -1784,7 +1784,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Oxymetholone, is an androgen and anabolic steroid (AAS) oral medication which is used primarily in the treatment of anaemia. It is also used to treat osteoporosis, HIV/AIDS wasting syndrome, and to promote weight gain and muscle growth in certain situations.',
+      'Oximetolona é um medicamento oral androgênico e esteroide anabolizante (AAS) que é usado principalmente no tratamento de anemia. Também é usado para tratar osteoporose, síndrome de emagrecimento de HIV/AIDS e para promover ganho de peso e crescimento muscular em certas situações.',
     synonyms: 'Oxymetholone, 434-07-1, Nastenon, Protanabol,Anadrol',
   },
   {
@@ -1794,7 +1794,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Oxandrolone, is an androgen and anabolic steroid (AAS) oral medication which is used to help promote weight gain in various situations, to help offset protein catabolism caused by long-term corticosteroid therapy, to support recovery from severe burns, to treat bone pain associated with osteoporosis, to aid in the development of girls with Turner syndrome, and for other indications.',
+      'Oxandrolona é um medicamento oral androgênico e esteroide anabolizante (AAS) usado para ajudar a promover ganho de peso em várias situações, para ajudar a compensar o catabolismo proteico causado pela terapia com corticosteroides de longo prazo, para apoiar a recuperação de queimaduras graves, para tratar dor óssea associada à osteoporose, para auxiliar no desenvolvimento de meninas com síndrome de Turner e para outras indicações.',
     synonyms: 'OXANDROLONE, Oxandrin, Vasorome, Lonavar, Protivar',
   },
   {
@@ -1804,7 +1804,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Oxandrolone, is an androgen and anabolic steroid (AAS) oral medication which is used to help promote weight gain in various situations, to help offset protein catabolism caused by long-term corticosteroid therapy, to support recovery from severe burns, to treat bone pain associated with osteoporosis, to aid in the development of girls with Turner syndrome, and for other indications.',
+      'Oxandrolona é um medicamento oral androgênico e esteroide anabolizante (AAS) usado para ajudar a promover ganho de peso em várias situações, para ajudar a compensar o catabolismo proteico causado pela terapia com corticosteroides de longo prazo, para apoiar a recuperação de queimaduras graves, para tratar dor óssea associada à osteoporose, para auxiliar no desenvolvimento de meninas com síndrome de Turner e para outras indicações.',
     synonyms: 'OXANDROLONE, Oxandrin, Vasorome, Lonavar, Protivar',
   },
   {
@@ -1814,7 +1814,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Oxandrolone, is an androgen and anabolic steroid (AAS) oral medication which is used to help promote weight gain in various situations, to help offset protein catabolism caused by long-term corticosteroid therapy, to support recovery from severe burns, to treat bone pain associated with osteoporosis, to aid in the development of girls with Turner syndrome, and for other indications.',
+      'Oxandrolona é um medicamento oral androgênico e esteroide anabolizante (AAS) usado para ajudar a promover ganho de peso em várias situações, para ajudar a compensar o catabolismo proteico causado pela terapia com corticosteroides de longo prazo, para apoiar a recuperação de queimaduras graves, para tratar dor óssea associada à osteoporose, para auxiliar no desenvolvimento de meninas com síndrome de Turner e para outras indicações.',
     synonyms: 'OXANDROLONE,\nOxandrin,\nVasorome,\nLonavar,\nProtivar',
   },
   {
@@ -1824,7 +1824,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Andarine is an investigational selective androgen receptor modulator (SARM) used for treatment of conditions such as muscle wasting, osteoporosis and benign prostatic hypertrophy,using the nonsteroidal antiandrogen bicalutamide as a lead compound.',
+      'Andarine é um modulador seletivo de receptor de androgênio (SARM) investigacional usado para tratamento de condições como perda muscular, osteoporose e hipertrofia prostática benigna, usando o antiandrogênio não esteroidal bicalutamida como composto principal.',
     synonyms:
       'Andarine\n401900-40-1\nGTX-007\nAndarine (GTX-007)\nUNII-7UT2HAH49H',
   },
@@ -1835,7 +1835,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Anastrozole, is an oral medication used in addition to other treatments for breast cancer. Specifically, it is used for hormone receptor-positive breast cancer. It has also been used to prevent breast cancer in those at high risk.',
+      'Anastrozol é um medicamento oral usado em adição a outros tratamentos para câncer de mama. Especificamente, é usado para câncer de mama com receptor hormonal positivo. Também tem sido usado para prevenir câncer de mama em pessoas de alto risco.',
     synonyms: 'anastrozole\n120511-73-1\nArimidex\nanastrazole\nAnastrozol',
   },
   {
@@ -1854,7 +1854,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Cabergoline is an ergot derivative, is a potent dopamine receptor agonist on D2 receptors. It is frequently used as a first-line agent in the management of prolactinomas due to its higher affinity for D2 receptor sites,',
+      'Cabergolina é um derivado de ergot, é um potente agonista do receptor de dopamina em receptores D2. É frequentemente usado como agente de primeira linha no manejo de prolactinomas devido à sua maior afinidade por sítios receptores D2',
     synonyms: 'cabergoline\n81409-90-7\nDostinex\nCabaser\nCabaseril',
   },
   {
@@ -1864,7 +1864,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'It is a PPARδ receptor agonist, it was entered into clinical development as a drug candidate for metabolic diseases and cardiovascular diseases and was abandoned in 2007 diseases.',
+      'É um agonista do receptor PPARδ, foi inserido no desenvolvimento clínico como candidato a medicamento para doenças metabólicas e doenças cardiovasculares e foi abandonado em 2007.',
     synonyms:
       'GSK-516\nGW 1516\nCARDARINE\nENDUROBOL\nGW-501615\nCB6465728\nGW 501516, >=98%\nGW 1516 ,GSK-516\nGW501516(GSK-516)\nGW501516, Free Acid\nCardarine(GW501516, GSK-516)\nGW501516/GW1516/GW-1516/GW501516\nMethyl-methyl-trifluoromethylphenyl -thiazolyl-methylsulfanyl-phenoxy-acetic Acid\n2-(4-((2-(4-(Trifluoromethyl)phenyl)-5-methylthiazol-4-yl)methylthio)-2-methylphenoxy)acetic\n2-(4-((2-(4-(Trifluoromethyl)phenyl)-4-methylthiazol-5-yl)methylthio)-2-methylphenoxy)acetic a\n{2-Methyl-4-{{4-methyl-2-[4-(trifluoromethyl)phenyl]-5-thiazolyl}methylthio}phenoxy}acetic acid\n2-(2-methyl-4-((5-methyl-2-(4-(trifluoromethyl)phenyl)thiazol-4-yl)methylthio)phenoxy)acetic acid\n2-(4-((2-(4-(trifluoromethyl)phenyl)-4-methylthiazol-5-yl)methylthio)-2-methylphenoxy)acetic acid\n2-(4-((2-(4-(TRIFLUOROMETHYL)PHENYL)-5-METHYLTHIAZOL-4-YL)METHYLTHIO)-2-METHYLPHENOXY)ACETIC ACID\n2-[2-Methyl-4-[[[4-methyl-2-[4-(trifluoromethyl)phenyl]-5-thiazolyl]methyl]thio]phenoxy]acetic Acid\n{2-Methyl-4-[4-Methyl-2-(4-trifluoroMethyl-phenyl)-thiazol-5-ylMethylsulfanyl]-phenoxy}-acetic acid\nAceticacid, [2-Methyl-4-[[[4-Methyl-2-[4-(trifluoroMethyl)phenyl]-5-thiazolyl]Methyl]thio]phenoxy]-(9CI)\n2-[2-methyl-4-[[4-methyl-2-[4-(trifluoromethyl)phenyl]-1,3-thiazol-5-yl]methylsulfanyl]phenoxy]acetic acid',
   },
@@ -1875,7 +1875,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Mibolerone, is a synthetic, orally active, and extremely potent anabolic–androgenic steroid (AAS) and a 17α-alkylated nandrolone (19-nortestosterone) derivative used as a veterinary drug. It was indicated specifically as an oral treatment for prevention of estrus (heat) in adult female dogs.',
+      'Mibolerone é um esteroide anabólico-androgênico (AAS) sintético, oralmente ativo e extremamente potente e um derivado de nandrolona 17α-alquilado (19-nortestosterona) usado como medicamento veterinário. Foi indicado especificamente como tratamento oral para prevenção do estro (cio) em cadelas adultas.',
     synonyms: 'MIBOLERONE\n3704-09-4\n[3H]mibolerone\nMibolerona\nMiboleronum',
   },
   {
@@ -1885,7 +1885,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Tadalafil, , is an oral medication used to treat erectile dysfunction (ED), benign prostatic hyperplasia (BPH), and pulmonary arterial hypertension.',
+      'Tadalafil é um medicamento oral usado para tratar disfunção erétil (DE), hiperplasia prostática benigna (HPB) e hipertensão arterial pulmonar.',
     synonyms: 'Tadalafil\nCialis\n171596-29-5\nIc351\nTadanafil',
   },
   {
@@ -1895,7 +1895,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Tadalafil, , is an oral medication used to treat erectile dysfunction (ED), benign prostatic hyperplasia (BPH), and pulmonary arterial hypertension.',
+      'Tadalafil é um medicamento oral usado para tratar disfunção erétil (DE), hiperplasia prostática benigna (HPB) e hipertensão arterial pulmonar.',
     synonyms: 'Tadalafil\nCialis\n171596-29-5\nIc351\nTadanafil',
   },
   {
@@ -1905,7 +1905,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Tadalafil, , is an oral medication used to treat erectile dysfunction (ED), benign prostatic hyperplasia (BPH), and pulmonary arterial hypertension.',
+      'Tadalafil é um medicamento oral usado para tratar disfunção erétil (DE), hiperplasia prostática benigna (HPB) e hipertensão arterial pulmonar.',
     synonyms: 'Tadalafil\nCialis\n171596-29-5\nIc351\nTadanafil',
   },
   {
@@ -1915,7 +1915,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Clenbuterol is a sympathomimetic amine used by sufferers of breathing disorders as a decongestant and bronchodilator. People with chronic breathing disorders such as asthma use this as a bronchodilator to make breathing easier. It is most commonly available as the hydrochloride salt, clenbuterol hydrochloride.',
+      'Clenbuterol é uma amina simpatomimética usada por pessoas com distúrbios respiratórios como descongestionante e broncodilatador. Pessoas com distúrbios respiratórios crônicos, como asma, usam isso como broncodilatador para facilitar a respiração. Está mais comumente disponível como sal de cloridrato, cloridrato de clenbuterol.',
     synonyms:
       'clenbuterol\nPlanipart\n37148-27-9\nClenbuterolum\nClenbuterolum [INN-Latin]',
   },
@@ -1926,7 +1926,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Clomiphene, is an oral medication used to treat infertility in women who do not ovulate. This includes those who have polycystic ovary syndrome.',
+      'Clomifeno é um medicamento oral usado para tratar infertilidade em mulheres que não ovulam. Isso inclui aquelas que têm síndrome do ovário policístico.',
     synonyms:
       'CLOMIPHENE CITRATE\nClomifene citrate\n50-41-9\nClomid\nChloramiphene',
   },
@@ -1946,7 +1946,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Dapoxetine is a medication used for the treatment of premature ejaculation (PE) in men 18–64 years old. Dapoxetine works by inhibiting the serotonin transporter, increasing serotonin’s action at the post synaptic cleft, and as a consequence promoting ejaculatory delay',
+      'Dapoxetina é um medicamento usado para o tratamento de ejaculação precoce (EP) em homens de 18 a 64 anos. A dapoxetina funciona inibindo o transportador de serotonina, aumentando a ação da serotonina na fenda sináptica pós-sináptica e, como consequência, promovendo atraso ejaculatório',
     synonyms:
       'Dapoxetine\n119356-77-3\n(S)-N,N-Dimethyl-3-(naphthalen-1-yloxy)-1-phenylpropan-1-amine\nDapoxetine hydrochloride\nDapoxetine [INN]',
   },
@@ -1957,7 +1957,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Metandienone, is an androgen and anabolic steroid (AAS) medication which is mostly no longer used. It is also used non-medically for physique- and performance-enhancing purposes.',
+      'Metandienona é um medicamento androgênico e esteroide anabolizante (AAS) que em sua maioria não é mais usado. Também é usado de forma não médica para fins de melhora de físico e desempenho.',
     synonyms:
       'METHANDROSTENOLONE\nMetandienone\nMethandienone\n72-63-9\nDianabol',
   },
@@ -1968,7 +1968,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Metandienone, is an androgen and anabolic steroid (AAS) medication which is mostly no longer used. It is also used non-medically for physique- and performance-enhancing purposes.',
+      'Metandienona é um medicamento androgênico e esteroide anabolizante (AAS) que em sua maioria não é mais usado. Também é usado de forma não médica para fins de melhora de físico e desempenho.',
     synonyms:
       'METHANDROSTENOLONE\nMetandienone\nMethandienone\n72-63-9\nDianabol',
   },
@@ -1979,7 +1979,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Metandienone, is an androgen and anabolic steroid (AAS) medication which is mostly no longer used. It is also used non-medically for physique- and performance-enhancing purposes.',
+      'Metandienona é um medicamento androgênico e esteroide anabolizante (AAS) que em sua maioria não é mais usado. Também é usado de forma não médica para fins de melhora de físico e desempenho.',
     synonyms:
       'METHANDROSTENOLONE\nMetandienone\nMethandienone\n72-63-9\nDianabol',
   },
@@ -1990,7 +1990,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Metandienone, is an androgen and anabolic steroid (AAS) medication which is mostly no longer used. It is also used non-medically for physique- and performance-enhancing purposes.',
+      'Metandienona é um medicamento androgênico e esteroide anabolizante (AAS) que em sua maioria não é mais usado. Também é usado de forma não médica para fins de melhora de físico e desempenho.',
     synonyms:
       'METHANDROSTENOLONE\nMetandienone\nMethandienone\n72-63-9\nDianabol',
   },
@@ -2001,7 +2001,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Exemestane, is a member of the class of anti-oestrogens known as aromatase inhibitors.it is a medication used to treat breast cancer.',
+      'Exemestano é um membro da classe de anti-estrogênios conhecidos como inibidores de aromatase. É um medicamento usado para tratar câncer de mama.',
     synonyms:
       'EXEMESTANE\n107868-30-4\nAromasin\n6-Methyleneandrosta-1,4-diene-3,17-dione\nFce 24304',
   },
@@ -2012,7 +2012,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Flibanserin is a medication approved for the treatment of pre-menopausal women with hypoactive sexual desire disorder (HSDD).The medication increases the number of satisfying sexual events per month by about one half over placebo from a starting point of about two to three',
+      'Flibanserina é um medicamento aprovado para o tratamento de mulheres na pré-menopausa com transtorno do desejo sexual hipoativo (HSDD). O medicamento aumenta o número de eventos sexuais satisfatórios por mês em cerca de metade sobre o placebo a partir de um ponto inicial de cerca de dois a três',
     synonyms: 'Flibanserin\n167933-07-5\nBimt-17\nBimt 17\nAddyi',
   },
   {
@@ -2022,7 +2022,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'GSK2881078 is a drug which acts as a selective androgen receptor modulator (SARM). It was developed for the prevention of muscle wasting and sarcopenia in elderly people',
+      'GSK2881078 é um medicamento que atua como modulador seletivo do receptor de androgênio (SARM). Foi desenvolvido para a prevenção de perda muscular e sarcopenia em idosos',
     synonyms:
       'GSK-2881078\n1539314-06-1\nUNII-47M5ZXU844\n47M5ZXU844\nGSK2881078',
   },
@@ -2033,7 +2033,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Fluoxymesterone, is an androgen and anabolic steroid (AAS) oral medication which is used in the treatment of low testosterone levels in men, delayed puberty in boys, breast cancer in women, and anemia.',
+      'Fluoximesterona é um medicamento oral androgênico e esteroide anabolizante (AAS) usado no tratamento de baixos níveis de testosterona em homens, puberdade atrasada em meninos, câncer de mama em mulheres e anemia.',
     synonyms:
       'fluoxymesterone\nFluoxymestrone\n76-43-7\nFluoximesterone\nHalotestin',
   },
@@ -2044,7 +2044,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Is a potent, long-acting, orally-active, selective, and non-peptide agonist of the ghrelin receptor and a growth hormone secretagogue, mimicking the growth hormone (GH)-stimulating action of the endogenous hormone ghrelin.',
+      'É um agonista potente, de ação prolongada, oralmente ativo, seletivo e não peptídico do receptor de grelina e um secretagogo do hormônio de crescimento, imitando a ação estimulante do hormônio de crescimento (GH) do hormônio endógeno grelina.',
     synonyms:
       'Ibutamoren;IbutaMoren (MK-677);Ibutamoren,MK-677, MK-0677, L-163,191;Ibutamoren mesylate (MK-0667, L163191);(R)-2-amino-N-(3-(benzyloxy)-1-(1-(methylsulfonyl)spiro[in doline-3,4′-piperidin]-1′-yl)-1-oxopropan-2-yl)-2-methylpropanamide;2-amino-2-methyl-N-[(2R)-1-(1-methylsulfonylspiro[2H-indole-3,4′-piperidine]-1′-yl)-1-oxo-3-phenylmethoxypropan-2-yl]propanamide;2-Amino-N-[(1R)-2-[1,2-dihydro-1-(methylsulfonyl)spiro[3H-indole-3,4′-piperidin]-1′-yl]-2-oxo-1- [(phenylmethoxy)methyl]ethyl]-2-methylpropanamide',
   },
@@ -2055,7 +2055,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Letrozole, is an aromatase inhibitor which is used in the treatment of hormonally-responsive breast cancer after surgery.',
+      'Letrozol é um inibidor de aromatase usado no tratamento de câncer de mama com resposta hormonal após cirurgia.',
     synonyms:
       'letrozole\n112809-51-5\nFemara\n4,4′-((1h-1,2,4-triazol-1-yl)methylene)dibenzonitrile\nLetrozol',
   },
@@ -2066,7 +2066,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Vardenafil (Levitra) is the treatment of erectile dysfunction. It is a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5).',
+      'Vardenafil (Levitra) é o tratamento de disfunção erétil. É um inibidor seletivo da fosfodiesterase tipo 5 (PDE5) específica de monofosfato de guanosina cíclico (cGMP).',
     synonyms:
       'Vardenafil (INN)\nVivanza\n2-{2-Ethoxy-5-[(4-ethylpiperazin-1-yl)sulfonyl]phenyl}-5-methyl-7-propylimidazo[5,1-f][1,2,4]triazin-4(1H)-one\n4-[2-ethoxy-5-(4-ethyl-piperazine-1-sulfonyl)-phenyl]-9-methyl-7-propyl-3,5,6,8-tetrazabicyclo[4.3.0]nona-3,7,9-trien-2-one\nVardenafil hydrochloride trihydrate\n[14C]-Vardenafil\n2-{2-Ethoxy-5-[(4-ethyl-1-piperazinyl)sulfonyl]phenyl}-5-methyl-7-propylimidazo[5,1-f][1,2,4]triazin-4(1H)-one\n2-[2-ethoxy-5-(4-ethylpiperazin-1-yl)sulfonylphenyl]-5-methyl-7-propyl-1H-imidazo[5,1-f][1,2,4]triazin-4-one\nVardenafil HCl Trihydrate\n4-[2-eyhoxy-5-(4-ethylpiperazin-1-yl)sulfonyl-phenyl]-9-methyl-7-propyl-3,5,6,8-tetrazabicyclo[4,3,0] none 3,7,9 trien-2-one\nImidazo[5,1-f][1,2,4]triazin-4(3H)-one, 2-[2-ethoxy-5-[(4-ethyl-1-piperazinyl)sulfonyl]phenyl]-5-methyl-7-propyl-\nvardenafil\nLevitra (TN)',
   },
@@ -2077,7 +2077,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Vardenafil (Levitra) is the treatment of erectile dysfunction. It is a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5).',
+      'Vardenafil (Levitra) é o tratamento de disfunção erétil. É um inibidor seletivo da fosfodiesterase tipo 5 (PDE5) específica de monofosfato de guanosina cíclico (cGMP).',
     synonyms:
       'Vardenafil (INN)\nVivanza\n2-{2-Ethoxy-5-[(4-ethylpiperazin-1-yl)sulfonyl]phenyl}-5-methyl-7-propylimidazo[5,1-f][1,2,4]triazin-4(1H)-one\n4-[2-ethoxy-5-(4-ethyl-piperazine-1-sulfonyl)-phenyl]-9-methyl-7-propyl-3,5,6,8-tetrazabicyclo[4.3.0]nona-3,7,9-trien-2-one\nVardenafil hydrochloride trihydrate\n[14C]-Vardenafil\n2-{2-Ethoxy-5-[(4-ethyl-1-piperazinyl)sulfonyl]phenyl}-5-methyl-7-propylimidazo[5,1-f][1,2,4]triazin-4(1H)-one\n2-[2-ethoxy-5-(4-ethylpiperazin-1-yl)sulfonylphenyl]-5-methyl-7-propyl-1H-imidazo[5,1-f][1,2,4]triazin-4-one\nVardenafil HCl Trihydrate\n4-[2-eyhoxy-5-(4-ethylpiperazin-1-yl)sulfonyl-phenyl]-9-methyl-7-propyl-3,5,6,8-tetrazabicyclo[4,3,0] none 3,7,9 trien-2-one\nImidazo[5,1-f][1,2,4]triazin-4(3H)-one, 2-[2-ethoxy-5-[(4-ethyl-1-piperazinyl)sulfonyl]phenyl]-5-methyl-7-propyl-\nvardenafil\nLevitra (TN)',
   },
@@ -2088,7 +2088,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Vardenafil (Levitra) is the treatment of erectile dysfunction. It is a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5).',
+      'Vardenafil (Levitra) é o tratamento de disfunção erétil. É um inibidor seletivo da fosfodiesterase tipo 5 (PDE5) específica de monofosfato de guanosina cíclico (cGMP).',
     synonyms:
       'Vardenafil (INN)\nVivanza\n2-{2-Ethoxy-5-[(4-ethylpiperazin-1-yl)sulfonyl]phenyl}-5-methyl-7-propylimidazo[5,1-f][1,2,4]triazin-4(1H)-one\n4-[2-ethoxy-5-(4-ethyl-piperazine-1-sulfonyl)-phenyl]-9-methyl-7-propyl-3,5,6,8-tetrazabicyclo[4.3.0]nona-3,7,9-trien-2-one\nVardenafil hydrochloride trihydrate\n[14C]-Vardenafil\n2-{2-Ethoxy-5-[(4-ethyl-1-piperazinyl)sulfonyl]phenyl}-5-methyl-7-propylimidazo[5,1-f][1,2,4]triazin-4(1H)-one\n2-[2-ethoxy-5-(4-ethylpiperazin-1-yl)sulfonylphenyl]-5-methyl-7-propyl-1H-imidazo[5,1-f][1,2,4]triazin-4-one\nVardenafil HCl Trihydrate\n4-[2-eyhoxy-5-(4-ethylpiperazin-1-yl)sulfonyl-phenyl]-9-methyl-7-propyl-3,5,6,8-tetrazabicyclo[4,3,0] none 3,7,9 trien-2-one\nImidazo[5,1-f][1,2,4]triazin-4(3H)-one, 2-[2-ethoxy-5-[(4-ethyl-1-piperazinyl)sulfonyl]phenyl]-5-methyl-7-propyl-\nvardenafil\nLevitra (TN)',
   },
@@ -2099,7 +2099,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Ligandrol (VK5211, LGD-4033) is an investigational selective androgen receptor modulator (SARM) for treatment of conditions such as muscle wasting and osteoporosis',
+      'Ligandrol (VK5211, LGD-4033) é um modulador seletivo de receptor de androgênio (SARM) investigacional para tratamento de condições como perda muscular e osteoporose',
     synonyms:
       '1165910-22-4\nLGD-4033\nLigandrol\nUNII-1EJT54415A\n4-((R)-2-((R)-2,2,2-Trifluoro-1-hydroxyethyl) pyrrolidin-1-yl)-2-(trifluoromethyl)benzonitrile',
   },
@@ -2110,7 +2110,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Metribolone , is a synthetic and orally active anabolic–androgenic steroid (AAS) and a 17α-alkylated nandrolone derivative which was never marketed for medical use but has been widely used in scientific research',
+      'Metribolona é um esteroide anabólico-androgênico (AAS) sintético e oralmente ativo e um derivado de nandrolona 17α-alquilado que nunca foi comercializado para uso médico, mas tem sido amplamente usado em pesquisa científica',
     synonyms:
       'Methyltrienolone\nMETRIBOLONE\n965-93-5\nR1881\n17alpha-Methyltrienolone',
   },
@@ -2121,7 +2121,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Ostarine (MK-2866), also known as enobosarm, is a selective androgen receptor modulator (SARM). SARMs like Ostarine stimulate steroid hormone receptors – androgen receptors – mimicking testosterone',
+      'Ostarine (MK-2866), também conhecida como enobosarm, é um modulador seletivo de receptor de androgênio (SARM). SARMs como Ostarine estimulam receptores de hormônios esteroides – receptores de androgênio – imitando testosterona',
     synonyms: 'Ostarine\nENOBOSARM\n841205-47-8\nGTx-024\nMK-2866',
   },
   {
@@ -2131,7 +2131,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Methenolone acetate is a synthetic, orally active anabolic-androgenic steroid and dihydrotestosterone (DHT) derivative. It can be used for the treatment of bone marrow disease and anemia.',
+      'Acetato de metenolona é um esteroide anabólico-androgênico sintético, oralmente ativo e derivado de di-hidrotestosterona (DHT). Pode ser usado para o tratamento de doenças da medula óssea e anemia.',
     synonyms:
       'Methenolone acetate\n434-05-9\nPrimobolan\nmetenolone acetate\nMethenolone (acetate)',
   },
@@ -2142,7 +2142,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Mesterolone, is an androgen and anabolic steroid (AAS) medication which is used mainly in the treatment of low testosterone levels. It has also been used to treat male infertility.',
+      'Mesterolona é um medicamento androgênico e esteroide anabolizante (AAS) usado principalmente no tratamento de baixos níveis de testosterona. Também tem sido usado para tratar infertilidade masculina.',
     synonyms: 'Mesterolone\nAndroviron\nMesteranum\nMestoranum\n1424-00-6',
   },
   {
@@ -2152,7 +2152,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Isotretinoin is a very effective medication for the treatment of acne. Originally licensed for use in severe disease, it is increasingly prescribed for all grades of acne.',
+      'Isotretinoína é um medicamento muito eficaz para o tratamento de acne. Originalmente licenciado para uso em doenças graves, está cada vez mais prescrito para todos os graus de acne.',
     synonyms:
       'Isotretinoin\n13-cis-Retinoic acid\nAccutane\n4759-48-2\nRoaccutane',
   },
@@ -2163,7 +2163,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'S-23 is an investigational selective androgen receptor modulator (SARM) developed by GTX, Inc as a potential male hormonal contraceptive. It binds to the androgen receptor more strongly than older drugs such as andarine with a Ki of 1.7 nM, and in animal studies it showed both a good ratio of anabolic to androgenic effects, and dose-dependent suppression of spermatogenesis with spontaneous recovery after cessation of treatment.',
+      'S-23 é um modulador seletivo de receptor de androgênio (SARM) investigacional desenvolvido pela GTX, Inc como um potencial contraceptivo hormonal masculino. Liga-se ao receptor de androgênio mais fortemente do que medicamentos mais antigos, como andarine, com um Ki de 1,7 nM, e em estudos com animais mostrou tanto uma boa proporção de efeitos anabólicos para androgênicos quanto supressão dependente da dose da espermatogênese com recuperação espontânea após cessação do tratamento.',
     synonyms:
       'S-23\nCCTH-methylpropionamide\nUNII-XDK89456WM\nCHEMBL512283\nXDK89456WM',
   },
@@ -2174,7 +2174,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'SR9011 is attractive as performance-enhancing substances due to their REV-ERB agonist effects and thus circadian rhythm modulation activity.',
+      'SR9011 é atraente como substância de melhora de desempenho devido aos seus efeitos agonistas REV-ERB e, portanto, atividade de modulação do ritmo circadiano.',
     synonyms: 'SR 9011\nSR-9011\nSR9011\nUNII-VYI79FLZ6W',
   },
   {
@@ -2184,7 +2184,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'It is a compound that was developed by researchers to manage medical conditions. Stenabolic is a REV-ERB (specifically a REV-ERBα antagonist) which impacts the metabolism, including the circadian rhythm.',
+      'É um composto que foi desenvolvido por pesquisadores para gerenciar condições médicas. Stenabolic é um REV-ERB (especificamente um antagonista REV-ERBα) que impacta o metabolismo, incluindo o ritmo circadiano.',
     synonyms: 'SR9009\n1379686-30-2\nSR-9009\nSR 9009',
   },
   {
@@ -2194,7 +2194,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Stanozolol is an androgen and anabolic steroid (AAS) medication derived from dihydrotestosterone (DHT). It is used to treat hereditary angioedema',
+      'Stanozolol é um medicamento androgênico e esteroide anabolizante (AAS) derivado de di-hidrotestosterona (DHT). É usado para tratar angioedema hereditário',
     synonyms: 'stanozolol\nWinstrol\nAndrostanazole\n10418-03-8\nAndrostanazol',
   },
   {
@@ -2204,7 +2204,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Stanozolol is an androgen and anabolic steroid (AAS) medication derived from dihydrotestosterone (DHT). It is used to treat hereditary angioedema',
+      'Stanozolol é um medicamento androgênico e esteroide anabolizante (AAS) derivado de di-hidrotestosterona (DHT). É usado para tratar angioedema hereditário',
     synonyms: 'stanozolol\nWinstrol\nAndrostanazole\n10418-03-8\nAndrostanazol',
   },
   {
@@ -2214,7 +2214,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Stanozolol is an androgen and anabolic steroid (AAS) medication derived from dihydrotestosterone (DHT). It is used to treat hereditary angioedema',
+      'Stanozolol é um medicamento androgênico e esteroide anabolizante (AAS) derivado de di-hidrotestosterona (DHT). É usado para tratar angioedema hereditário',
     synonyms: 'stanozolol\nWinstrol\nAndrostanazole\n10418-03-8\nAndrostanazol',
   },
   {
@@ -2224,7 +2224,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Stanozolol is an androgen and anabolic steroid (AAS) medication derived from dihydrotestosterone (DHT). It is used to treat hereditary angioedema',
+      'Stanozolol é um medicamento androgênico e esteroide anabolizante (AAS) derivado de di-hidrotestosterona (DHT). É usado para tratar angioedema hereditário',
     synonyms: 'stanozolol\nWinstrol\nAndrostanazole\n10418-03-8\nAndrostanazol',
   },
   {
@@ -2234,7 +2234,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Methasterone, is a synthetic and orally active anabolic–androgenic steroid (AAS) which was never marketed for medical use.',
+      'Metasterona é um esteroide anabólico-androgênico (AAS) sintético e oralmente ativo que nunca foi comercializado para uso médico.',
     synonyms: 'Methasterone\nSuperdrol\n3381-88-2\nUNII-GH88DY98MR\nGH88DY98MR',
   },
   {
@@ -2244,7 +2244,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Liothyronine is a thyroidal hormone T3 which is normally produced by the thyroid gland in a ratio 4:1 when compared with T4: T3. Liothyronine is the active form of thyroxine which is composed in a basic chemical structure by a tyrosine with bound iodine.',
+      'Liotironina é um hormônio tireoidiano T3 que normalmente é produzido pela glândula tireoide em uma proporção de 4:1 quando comparado com T4: T3. A liotironina é a forma ativa da tiroxina que é composta em uma estrutura química básica por uma tirosina com iodo ligado.',
     synonyms:
       'LIOTHYRONINE SODIUM\n55-06-1\nCytomel\nTriostat\n3,3′,5-Triiodo-L-thyronine sodium salt',
   },
@@ -2255,7 +2255,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Tamoxifen, is a medication that is used to prevent breast cancer in women and treat breast cancer in women and men',
+      'Tamoxifeno é um medicamento usado para prevenir câncer de mama em mulheres e tratar câncer de mama em mulheres e homens',
     synonyms: 'tamoxifen\n10540-29-1\ntrans-Tamoxifen\nCrisafeno\nSoltamox',
   },
   {
@@ -2265,7 +2265,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'RAD140 is an investigational selective androgen receptor modulator (SARM) for the treatment of conditions such as muscle wasting and breast cancer.',
+      'RAD140 é um modulador seletivo de receptor de androgênio (SARM) investigacional para o tratamento de condições como perda muscular e câncer de mama.',
     synonyms: 'RAD140\n1182367-47-0\nRAD-140\nUNII-4O87Q44KNC\n4O87Q44KNC',
   },
   {
@@ -2275,7 +2275,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Toremifene, is an oral medication which is used in the treatment of advanced breast cancer in postmenopausal women.',
+      'Toremifeno é um medicamento oral usado no tratamento de câncer de mama avançado em mulheres pós-menopáusicas.',
     synonyms:
       'TOREMIFENE CITRATE\n89778-27-8\nFareston\nToremifene (Citrate)\nFC 1157a',
   },
@@ -2286,7 +2286,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Oral Turinabol is  known as 4-chloro-17β-hydroxy17α-methylandrosta-1,4-dien-3-one, is an anabolic–androgenic steroid (AAS).',
+      'Turinabol oral é conhecido como 4-cloro-17β-hidroxi17α-metilandrosta-1,4-dien-3-ona, é um esteroide anabólico-androgênico (AAS).',
     synonyms:
       '4-Chlorodehydromethyltestosterone\n2446-23-3\nOral turinabol\n4-Chloromethandienone\nOral-Turinabol',
   },
@@ -2297,7 +2297,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Vardenafil (Levitra) is the treatment of erectile dysfunction. It is a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5).',
+      'Vardenafil (Levitra) é o tratamento de disfunção erétil. É um inibidor seletivo da fosfodiesterase tipo 5 (PDE5) específica de monofosfato de guanosina cíclico (cGMP).',
     synonyms:
       'Vardenafil (INN)\nVivanza\n2-{2-Ethoxy-5-[(4-ethylpiperazin-1-yl)sulfonyl]phenyl}-5-methyl-7-propylimidazo[5,1-f][1,2,4]triazin-4(1H)-one\n4-[2-ethoxy-5-(4-ethyl-piperazine-1-sulfonyl)-phenyl]-9-methyl-7-propyl-3,5,6,8-tetrazabicyclo[4.3.0]nona-3,7,9-trien-2-one\nVardenafil hydrochloride trihydrate\n[14C]-Vardenafil\n2-{2-Ethoxy-5-[(4-ethyl-1-piperazinyl)sulfonyl]phenyl}-5-methyl-7-propylimidazo[5,1-f][1,2,4]triazin-4(1H)-one\n2-[2-ethoxy-5-(4-ethylpiperazin-1-yl)sulfonylphenyl]-5-methyl-7-propyl-1H-imidazo[5,1-f][1,2,4]triazin-4-one\nVardenafil HCl Trihydrate\n4-[2-eyhoxy-5-(4-ethylpiperazin-1-yl)sulfonyl-phenyl]-9-methyl-7-propyl-3,5,6,8-tetrazabicyclo[4,3,0] none 3,7,9 trien-2-one\nImidazo[5,1-f][1,2,4]triazin-4(3H)-one, 2-[2-ethoxy-5-[(4-ethyl-1-piperazinyl)sulfonyl]phenyl]-5-methyl-7-propyl-\nvardenafil\nLevitra (TN)',
   },
@@ -2308,7 +2308,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'it is used to treat erectile dysfunction. It has fairly rapid onset of action and has long duration of action',
+      'é usado para tratar disfunção erétil. Tem início de ação relativamente rápido e tem longa duração de ação',
     synonyms:
       'Udenafil\n3-(6,7-Dihydro-1-methyl-7-oxo-3-propyl-1H-pyrazolo[4,3-d] pyrimidin-5-yl)-N-[2-(1-methyl-2-pyrrolidinyl) ethyl]-4-propoxybenzenesulfonamide; DA 8159; Zydena;',
   },
@@ -2319,7 +2319,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Sildenafil is a phosphodiesterase-5 (PDE5) inhibitor that is predominantly employed for two primary indications: the treatment of erectile dysfunction; and treatment of pulmonary hypertension,',
+      'Sildenafil é um inibidor de fosfodiesterase-5 (PDE5) que é predominantemente empregado para duas indicações primárias: o tratamento de disfunção erétil e o tratamento de hipertensão pulmonar',
     synonyms: 'sildenafil\n139755-83-2\nVIAGRA\nSildenafil [INN:BAN]\nUK-92480',
   },
   {
@@ -2329,7 +2329,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'Sildenafil is a phosphodiesterase-5 (PDE5) inhibitor that is predominantly employed for two primary indications: the treatment of erectile dysfunction; and treatment of pulmonary hypertension,',
+      'Sildenafil é um inibidor de fosfodiesterase-5 (PDE5) que é predominantemente empregado para duas indicações primárias: o tratamento de disfunção erétil e o tratamento de hipertensão pulmonar',
     synonyms: 'sildenafil\n139755-83-2\nVIAGRA\nSildenafil [INN:BAN]\nUK-92480',
   },
   {
@@ -2339,7 +2339,7 @@ let data = [
     subcategory: '',
     description: '',
     description__1:
-      'YK-11 is a synthetic steroidal selective androgen receptor modulator (SARM). It is a gene-selective partial agonist of the androgen receptor (AR) and does not induce the physical interaction between the NTD/AF1 and LBD/AF2, which is required for full transactivation of the AR. (it is an androgen receptor partial agonist).',
+      'YK-11 é um modulador seletivo de receptor de androgênio (SARM) esteroidal sintético. É um agonista parcial gene-seletivo do receptor de androgênio (AR) e não induz a interação física entre NTD/AF1 e LBD/AF2, que é necessária para transativação completa do AR. (é um agonista parcial do receptor de androgênio).',
     synonyms: 'YK-11\nYK11\n1370003-76-1\nYK11 cpd\nEX-A727',
   },
 ];
